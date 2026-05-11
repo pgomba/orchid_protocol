@@ -1,0 +1,9 @@
+#### Francais Tetrazolium Chloride testing and Imaging Protocol Placeholer
+
+Ipsum
+
+Example image reference [@fig-foldfr](#fig-foldfr) (Steps 1 to 3)
+
+::: column-margin
+![Instructions to fold the paper correctly to ensure that seeds are not lost while submerged in TZ](images/folding_instructions.jpg){#fig-foldfr fig-alt=""}
+:::

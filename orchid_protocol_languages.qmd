@@ -1,0 +1,38 @@
+---
+mainfont: roboto
+theme:
+  light: flatly
+  dark: darkly
+lang: en
+title: "Exploring machine learning as a tool to improve the accuracy and speed of orchid viability testing"
+lightbox: true
+format:
+  html:
+    embed-resources: true
+
+---
+
+::: {.panel-tabset} 
+
+# 🇬🇧 English
+{{< include _protocol_en.qmd >}}
+
+# 🇫🇷 Français
+
+{{< include _protocol_fr.qmd >}}
+
+# 🇪🇸 Español
+
+{{< include _protocol_es.qmd >}}
+
+:::
+### References
+
+Seed viability testing using the Tetrazolium Chloride stain (Draft) - Millenium Seed Bank, Standard Operating Procedures 2.2 
+
+Methodology for epiphytic orchid seed viability test using Triphenyl Tetrazolium Chloride (TZ) - Millenium Seed Bank, Standard Operating Procedures 2.21 
+
+Sigma's 2,3,5-Triphenyltetrazolium chloride Safety Data Sheet | [SDS](https://www.fishersci.be/chemicalProductData_uk/wercs?itemCode=12615296&lang=EN)
+
+
+
