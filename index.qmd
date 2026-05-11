@@ -4,7 +4,7 @@ theme:
   light: flatly
   dark: darkly
 lang: en
-title: "Exploring machine learning as a tool to improve the accuracy and speed of orchid viability testing"
+title: "Tetrazolium Chloride Testing and Imaging Protocol"
 lightbox: true
 format:
   html:
