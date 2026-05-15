@@ -1,3 +1,4 @@
+### Tetrazolium Chloride Testing and Imaging Protocol
 
 The current version of this document aims to outline a replicable system to photograph stained orchid seeds, in order to curate an image database for model training purposes. However, it leaves some room to use this opportunity to update your viability records using your own scoring protocol.
 
