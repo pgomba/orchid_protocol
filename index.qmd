@@ -4,7 +4,7 @@ theme:
   light: flatly
   dark: darkly
 lang: en
-title: "Tetrazolium Chloride Testing and Imaging Protocol"
+title: "OrchAId Protocols"
 lightbox: true
 format:
   html:
