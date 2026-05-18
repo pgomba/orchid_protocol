@@ -46,9 +46,9 @@ La version actuelle de ce document vise à présenter un système reproductible 
 
 ##### Procédure:
 
-1. Dissolvez 3,63 g de dihydrogénophosphate de potassium (KH2PO4) dans 400 ml d'eau distillée dans un bécher en verre.
+1. Dissolvez 3,63 g de dihydrogénophosphate de potassium (KH~2~PO~4~) dans 400 ml d'eau distillée dans un bécher en verre.
 
-2. Dissolvez 7,13 g d’hydrogénophosphate de sodium dihydraté (Na2HPO4) dans 600 ml d'eau distillée dans un autre bécher en verre.
+2. Dissolvez 7,13 g d’hydrogénophosphate de sodium dihydraté (Na~2~HPO~4~) dans 600 ml d'eau distillée dans un autre bécher en verre.
 
 3. Lorsque ces stocks sont complètement dissous, mélangez les deux solutions dans un récipient en verre de 1 L et ajouter 10 g de chlorure de 2,3,5-triphényl-2H-tétrazolium. Agitez jusqu'à ce que toute la poudre soit dissoute et vérifiez que le pH de la solution est compris entre 6 et 8.
 
@@ -76,7 +76,7 @@ Tout réactif qui prend une couleur rose doit être mis au rebut
 
 * Crayon
 
-* Solution de TZ à 1 % (voir [previous section](#sec-preparationfr))
+* Solution de TZ à 1 % (voir [Section précédente](#sec-preparationfr))
 
 :::
 
@@ -260,3 +260,11 @@ Certaines bulles peuvent être piégées entre la lamelle couvre-objet et la lam
 7. Pour enregistrer l'image, cliquez-droit avec la souris sur la vignette de l'image dans le panneau de gauche et sur l’option save as (« Enregistrer sous »). Enlevez toutes les coches de la section Imprint (« Impression ») et sélectionnez la taille maximale de l'image et le nombre de ppp. Enregistrez l'image au format .jpeg.
 
 8. Veillez à ce que le nom du fichier contienne toutes les informations importantes concernant la collection (nom de l'espèce, numéro de collection ou d'accession, numéro de réplicat (le cas échéant)) et créez une sauvegarde pour vous assurer de ne pas perdre les informations.
+
+### Références
+
+Seed viability testing using the Tetrazolium Chloride stain (Draft) - Millennium Seed Bank, Standard Operating Procedures 2.2 
+
+Methodology for epiphytic orchid seed viability test using Triphenyl Tetrazolium Chloride (TZ) - Millennium Seed Bank, Standard Operating Procedures 2.21 
+
+Sigma's 2,3,5-Triphenyltetrazolium chloride Safety Data Sheet | [SDS](https://www.fishersci.be/chemicalProductData_uk/wercs?itemCode=12615296&lang=EN)
