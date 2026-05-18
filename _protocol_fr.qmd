@@ -41,7 +41,7 @@ La version actuelle de ce document vise à présenter un système reproductible 
 :::
 
 
-![Flacon ambré de 1 litre contenant du tétrazolium à 1%](images/amber_bottle.png){#fig-bottlefr fig-alt="Flacon ambré avec un couvercle à vis bleu et une étiquette sur le devant. L'étiquette porte la mention chemical & concentration, 1% TZ, initials PGB, date May 23 (« Produit chimique et concentration, TZ à 1 %, Initiales PGB, Date : 23 mai »). Elle comporte également un pictogramme de danger pour la santé." aria-description=""}
+![Flacon ambré de 1 litre contenant du tétrazolium à 1%](images/amber_bottle.png){#fig-bottlefr fig-alt="Flacon ambré avec un couvercle à vis bleu et une étiquette sur le devant. L'étiquette porte la mention chemical & concentration, 1% TZ, initials PGB, date May 23 (« Produit chimique et concentration, TZ à 1 %, Initiales PGB, Date : 23 mai »). Elle comporte également un pictogramme de danger pour la santé." aria-description="" width=30%}
 
 
 ##### Procédure:
