@@ -41,7 +41,7 @@ The current version of this document aims to outline a replicable system to phot
 :::
 
 ::: column-margin
-![1L amber bottle containing 1% Tetrazolium](images/amber_bottle.png){#fig-bottle fig-alt="" aria-description=""}
+![1L amber bottle containing 1% Tetrazolium](images/amber_bottle.png){#fig-bottle fig-alt="An amber bottle with a blue screw lid and a label on the front. The label reads chemical & concentration, 1% TZ, initials PGB, date May 23. It also has a health hazard pictogram on it." aria-description=""}
 :::
 
 ##### Procedure:
@@ -112,11 +112,11 @@ Any reagent that develops a pink  colour should be discarded
 6. Place in an incubator at 30 °C for a minimum of 24 hours, but up to 48 hours. 
 
 ::: column-margin
-![Instructions to fold the paper correctly to ensure that seeds are not lost while submerged in TZ](images/folding_instructions.jpg){#fig-fold fig-alt=""}
+![Instructions to fold the paper correctly to ensure that seeds are not lost while submerged in TZ](images/folding_instructions.jpg){#fig-fold fig-alt="A series of 8 steps and a key to the symbols used. Step 1 is to fold the circle of filter paper in half. Step 2, with the folded edge facing you, fold the top quarter of the filter paper down. Step 3, you should now have a narrow rectangle with two short curved edges. Fold each curved edge in towards the centre, using the edge of the top fold as a guide for fold lines. Step 4, unfold the filter paper. Step 5, place your orchid seeds in the centre of your piece of filter paper. Step 6, repeat steps 1 to 3. Step 7, with the long folded edge facing you, fold the left edge of the filter paper packet over to meet the right edge. Step 8, seal the packet together with a paper clip."}
 :::
 
 ::: column-margin
-![A spatula containing an adequate volume of seeds for testing. This example uses a 100 mm-long spatula.](images/scoop2.jpg){#fig-scoop fig-alt=""}
+![A spatula containing an adequate volume of seeds for testing. This example uses a 100 mm-long spatula.](images/scoop2.jpg){#fig-scoop fig-alt="A Chattaway spatula, lying horizontally, and a close up of the end of a Chattaway spatula with a sample of seeds covering have the angled tip."}
 :::
 
 ### Microscope slide preparation for imaging
@@ -162,13 +162,13 @@ Any reagent that develops a pink  colour should be discarded
 
 ::: {layout-nrow=2}
 
-![Seeds may stick to the tip of the tweezers after being scraped off the filter paper.](images/fig3.png){#fig-seedscrap fig-alt=""}
+![Seeds may stick to the tip of the tweezers after being scraped off the filter paper.](images/fig3.png){#fig-seedscrap fig-alt="A close up of the end of a pair of tweezers on a glass slide. There are a few seeds on the slide, but many are stuck to the tips of the tweezers."}
 
-![Use a drop of TZ to release seeds in the tweezer tips onto the microscope slide.](images/fig4.png){#fig-drop fig-alt=""}
+![Use a drop of TZ to release seeds in the tweezer tips onto the microscope slide.](images/fig4.png){#fig-drop fig-alt="A close up of a pair of tweezers on a glass slide. There are several seeds on the glass slide, but there are many stuck to the tweezer tips. A pipette top is held close to the tweezer tips, with a drop of liquid coming out from it, touch the orchid seeds on the tweezer tip."}
 
-![Distribute the seeds evenly in the drop of water by swirling the tweezers gently.](images/fig5.png){#fig-swirl fig-alt=""}
+![Distribute the seeds evenly in the drop of water by swirling the tweezers gently.](images/fig5.png){#fig-swirl fig-alt="A close up of the end of a pair of tweezers on a glass slide. The tweezer tips are within a small pool of liquid on the slide, and there are orchid seeds in the liquid and on the tweezers. A black curled arrow has been drawn above the tweezers."}
 
-![Place a coverslip on top of the microscope slide, minimizing the formation of bubbles as much as possible](images/fig6.png){#fig-cover fig-alt=""}
+![Place a coverslip on top of the microscope slide, minimizing the formation of bubbles as much as possible](images/fig6.png){#fig-cover fig-alt="A close up of a glass slide and the tips of gloved fingers. The fingers are holding a square cover slip, one edge of which is on the glass slide touching the liquid."}
 :::
 
 :::
@@ -217,19 +217,19 @@ Some bubbles may get trapped between the coverslip and the microscope slide, whi
 
 ##### Procedure:
 ::: column-margin
-![Setup for imaging orchid viability](images/fig7.png){#fig-setup fig-alt=""}
+![Setup for imaging orchid viability](images/fig7.png){#fig-setup fig-alt="A white laboratory bench, with a laptop on it. By the side of the laptop is an A4 sized light box, which has a dino-lite camera over one end of it. The dino-lite camera is being held up by a stand which is positioned adjacent to the light box. The light box and dino-light are connected to the laptop."}
 :::
 
 ::: column-margin
 ::: columns
 <div markdown="1" class="column" style="width: 50%;">
     
-![Dino-Lite positioned over microscope slide on back-illuminated base](images/fig8.png){#fig-setup2 fig-alt=""}
+![Dino-Lite positioned over microscope slide on back-illuminated base](images/fig8.png){#fig-setup2 fig-alt="A close up of a back-illuminated lightbox with a microscope slide on it. The dino-lite camera is positioned directly over the microscope slide, held in place by a stand."}
 </div>
 
 <div markdown="1" class="column" style="width: 50%;">
 
-![Close-up showing separation between Dino-Lite and microscope slide](images/fig9.png){#fig-setup3 fig-alt=""}
+![Close-up showing separation between Dino-Lite and microscope slide](images/fig9.png){#fig-setup3 fig-alt="A close up of a microscope slide and the camera end of a dino-lite. The clear plastic section at the end of the dino-lite is only one to two millimetres away from the microscope slide."}
 
 </div>
 :::
@@ -243,7 +243,7 @@ Some bubbles may get trapped between the coverslip and the microscope slide, whi
 3. Turn on the light box following the instruction manual for your specific make and model. 
 
 ::: column-margin
-![DinoCapture screenshot highlighting the LED switch and autoexposure button](images/fig10.png){#fig-exposure fig-alt=""}
+![DinoCapture screenshot highlighting the LED switch and autoexposure button](images/fig10.png){#fig-exposure fig-alt="A screenshot of the dinocapture software. It shows a dark grey background with a mixture of stained and unstained orchid seeds on it. In the top right corner of the screen shot is a series of five square symbols. The first has ‘AE’ written on it and the second is a symbol of a sun. The two symbols have arrows coming off them and the text ‘Auto exposure and LED off’ written over the screenshot."}
 :::
 4. Open the DinoCapture software (version 2 or 3) and:
 * Turn off the Dino-Lite LED lights
@@ -253,10 +253,18 @@ Some bubbles may get trapped between the coverslip and the microscope slide, whi
 5. Move the microscope slide around under the lens to maximise the number of seeds within focus, adjusting the brightness and focus as needed.
 
 ::: column-margin
-![Optimal image background colour shown in the middle image](images/fig11.png){#fig-backcolour fig-alt=""}
+![Optimal image background colour shown in the middle image](images/fig11.png){#fig-backcolour fig-alt="Three screenshots of the same image with different colours. The first has a dark grey background and the contrast between the seeds and the background is low. There is a red circle with a white cross in it at the bottom of this screen shot. The middle screenshot has a light grey background and a high contrast between the seeds and the background. This screenshot has a green circle with a tick in it on it. The final image has a bright creamy white background and the edges of the seeds blend into it. This is image has a red circle with a white cross in it on it."}
 :::
 6. Take a picture by pressing the camera icon in the  software live view window ([@fig-exposure](#fig-exposure))
 
 7. To save the image, right click on top of the image thumbnail in the left panel and “save as”. Remove all ticks from the “Imprint” section and select maximum image size and dpi. Save the image in .jpeg format. 
 
-8. Ensure file name contains all important information about the collection (species name, collection or accession number, replicate number (if applicable) and create a backup to ensure the information is not lost. 
+8. Ensure file name contains all important information about the collection (species name, collection or accession number, replicate number (if applicable) and create a backup to ensure the information is not lost.
+
+### References
+
+Seed viability testing using the Tetrazolium Chloride stain (Draft) - Millennium Seed Bank, Standard Operating Procedures 2.2 
+
+Methodology for epiphytic orchid seed viability test using Triphenyl Tetrazolium Chloride (TZ) - Millennium Seed Bank, Standard Operating Procedures 2.21 
+
+Sigma's 2,3,5-Triphenyltetrazolium chloride Safety Data Sheet | [SDS](https://www.fishersci.be/chemicalProductData_uk/wercs?itemCode=12615296&lang=EN)
