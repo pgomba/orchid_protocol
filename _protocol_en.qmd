@@ -1,0 +1,270 @@
+### Tetrazolium Chloride Testing and Imaging Protocol
+
+The current version of this document aims to outline a replicable system to photograph stained orchid seeds, in order to curate an image database for model training purposes. However, it leaves some room to use this opportunity to update your viability records using your own scoring protocol.
+
+### 1% Tetrazolium chloride (TZ) solution preparation {#sec-preparation}
+
+::: {.callout-tip}
+#### Requirements:
+
+::: {.grid}
+
+::: {.g-col-6}
+
+* Potassium dihydrogen orthophosphate (KH~2~PO~4~) | [SDS](https://www.fishersci.co.uk/chemicalProductData_uk/wercs?itemCode=10598250&lang=EN) | CAS: 7778-77-0
+
+* Disodium hydrogen orthophosphate dihydrate (Na~2~HPO~4~) | [SDS](https://www.fishersci.no/store/msds?partNumber=10316440&countryCode=NO&language=en) | CAS: 10028-24-7
+
+* 2,3,5-triphenyl tetrazolium chloride | [SDS](https://www.fishersci.be/chemicalProductData_uk/wercs?itemCode=12615296&lang=EN)
+
+* Precision balance
+
+* Fume hood
+:::
+  
+::: {.g-col-6}
+
+* EN374 compliant gloves & EN166 compliant eye protection
+
+* 1L amber bottle or 1L clear glass bottle and tin foil
+
+* Distilled water
+
+* Magnetic stirrer
+
+* pH meter
+
+:::
+  
+:::  
+
+:::
+
+::: column-margin
+![1L amber bottle containing 1% Tetrazolium](images/amber_bottle.png){#fig-bottle fig-alt="An amber bottle with a blue screw lid and a label on the front. The label reads chemical & concentration, 1% TZ, initials PGB, date May 23. It also has a health hazard pictogram on it." aria-description=""}
+:::
+
+##### Procedure:
+
+1. Dissolve 3.63 g of Potassium dihydrogen orthophosphate (KH~2~PO~4~) in 400 mL of distilled water in a glass beaker. 
+
+2. Dissolve 7.13 g of Disodium hydrogen orthophosphate dihydrate (Na~2~HPO~4~) in 600 mL of distilled water in a separate glass beaker.
+
+3. When these stocks have completely dissolved, mix the two solutions in a 1 L glass container and add 10 g of 2,3,5-triphenyl tetrazolium chloride. Stir until all powder is dissolved and check that the pH of the solution is between 6 and 8. 
+
+4. Label the bottle with your initials, contents, creation date and the appropriate chemical hazard symbol (or following your specific lab  protocols) then store in the dark at 4 °C for not longer than 3 months. If you have used a clear glass bottle rather than an amber glass bottle, wrap the bottle in tin foil before storing.
+
+::: {.callout-warning}
+### Note
+Any reagent that develops a pink  colour should be discarded
+:::
+
+### Orchid staining
+
+::: {.callout-tip}
+#### Requirements:
+
+::: {.grid}
+
+::: {.g-col-6}
+
+* 5 cm diameter filter papers
+
+* Aluminium foil
+
+* Plastic covered paper clip
+
+* Pencil
+
+* 1% TZ solution (see [previous section](#sec-preparation)) 
+
+:::
+  
+::: {.g-col-6}
+
+* Schott glass container 10-5 mL capacity
+
+* EN374 compliant gloves
+
+* Distilled water
+
+* Safety goggles (EN166)
+
+* Incubator at 30 °C
+
+:::
+  
+:::  
+
+:::
+
+##### Procedure:
+1. Fold a piece of filter paper to create a square packet following the diagram in [@fig-fold](#fig-fold) (Steps 1 to 3)
+
+2. Label the outside of the packet using a pencil with the seed accession or collection number (and the replicate number if appropriate). 
+
+3. Unfold the packet and place less than 300 orchid seeds from a single collection in the centre of the packet ([@fig-fold](#fig-fold), Step 4). The correct number of seeds can be determined using seed weight data and a precision balance when available, or estimated by scooping seeds with a spatula, as shown in [@fig-scoop](#fig-scoop).
+
+4. Re-fold the packet into a square and use a plastic covered paperclip to seal the packet closed. ([@fig-fold](#fig-fold) Steps 5-7)
+
+5. Submerge the packet in 1% TZ solution in a Schott bottle wrapped in a double layer of aluminium foil ([@fig-fold](#fig-fold), Step 8), ensuring the packet is fully submerged.
+
+6. Place in an incubator at 30 °C for a minimum of 24 hours, but up to 48 hours. 
+
+::: column-margin
+![Instructions to fold the paper correctly to ensure that seeds are not lost while submerged in TZ](images/folding_instructions.jpg){#fig-fold fig-alt="A series of 8 steps and a key to the symbols used. Step 1 is to fold the circle of filter paper in half. Step 2, with the folded edge facing you, fold the top quarter of the filter paper down. Step 3, you should now have a narrow rectangle with two short curved edges. Fold each curved edge in towards the centre, using the edge of the top fold as a guide for fold lines. Step 4, unfold the filter paper. Step 5, place your orchid seeds in the centre of your piece of filter paper. Step 6, repeat steps 1 to 3. Step 7, with the long folded edge facing you, fold the left edge of the filter paper packet over to meet the right edge. Step 8, seal the packet together with a paper clip."}
+:::
+
+::: column-margin
+![A spatula containing an adequate volume of seeds for testing. This example uses a 100 mm-long spatula.](images/scoop2.jpg){#fig-scoop fig-alt="A Chattaway spatula, lying horizontally, and a close up of the end of a Chattaway spatula with a sample of seeds covering have the angled tip."}
+:::
+
+### Microscope slide preparation for imaging
+
+::: {.callout-tip}
+#### Requirements:
+
+::: {.grid}
+
+::: {.g-col-6}
+
+* Thin tweezers 
+
+* 1% TZ solution
+
+* Glass microscope slide (frosted)
+
+* Coverslip
+
+
+:::
+  
+::: {.g-col-6}
+
+* Pipette (1 mL)
+
+* EN374 compliant gloves
+
+* Safety goggles
+
+
+:::
+  
+:::  
+
+:::
+
+##### Procedure:
+
+1. Extract a packet from the TZ solution and carefully remove the paperclip without tearing the paper. Unfold the filter paper onto a flat surface. 
+
+::: column-margin
+
+::: {layout-nrow=2}
+
+![Seeds may stick to the tip of the tweezers after being scraped off the filter paper.](images/fig3.png){#fig-seedscrap fig-alt="A close up of the end of a pair of tweezers on a glass slide. There are a few seeds on the slide, but many are stuck to the tips of the tweezers."}
+
+![Use a drop of TZ to release seeds in the tweezer tips onto the microscope slide.](images/fig4.png){#fig-drop fig-alt="A close up of a pair of tweezers on a glass slide. There are several seeds on the glass slide, but there are many stuck to the tweezer tips. A pipette top is held close to the tweezer tips, with a drop of liquid coming out from it, touch the orchid seeds on the tweezer tip."}
+
+![Distribute the seeds evenly in the drop of water by swirling the tweezers gently.](images/fig5.png){#fig-swirl fig-alt="A close up of the end of a pair of tweezers on a glass slide. The tweezer tips are within a small pool of liquid on the slide, and there are orchid seeds in the liquid and on the tweezers. A black curled arrow has been drawn above the tweezers."}
+
+![Place a coverslip on top of the microscope slide, minimizing the formation of bubbles as much as possible](images/fig6.png){#fig-cover fig-alt="A close up of a glass slide and the tips of gloved fingers. The fingers are holding a square cover slip, one edge of which is on the glass slide touching the liquid."}
+:::
+
+:::
+
+2. With a pair of thin tipped flat ended tweezers, gently scrape the seeds from the filter paper onto a microscope slide. While some seeds will make it into the microscope slide, it is likely most seeds will stay attached to the tweezer tips due to static ([@fig-seedscrap](#fig-seedscrap)). These can be easily removed by carefully using a drop of 1% TZ from a standard 1 mL transfer pipette onto the tip of the tweezers over the microscope slide ([@fig-drop](#fig-drop)). The optimal number of drops of 1% TZ a microscope slide can hold is between 2.5 and 3 (2 drops if square).
+
+3. Swirl the tweezers in the TZ solution on the   microscope slide surface to ensure all seeds make it onto the slide and try to separate any seed clusters that might have formed ([@fig-swirl](#fig-swirl)). 
+
+4. Finally, carefully position the coverslip avoiding seeds and liquid from falling from the slide ([@fig-cover](#fig-cover), this is where the 3-drop 1% TZ limit comes in handy) while minimizing the number of air bubbles present. To do so, try to press the middle of the cover glass on top of the liquid instead of starting to cover from the borders.
+
+::: {.callout-note collapse="true"}
+#### Too many bubbles? Expand for some tips and tricks
+
+Some bubbles may get trapped between the coverslip and the microscope slide, which could affect automated viability analysis. To minimize bubbles, position the 1 mL pipette near the gap between the coverslip and the slide, and slowly release some liquid to help dislodge the bubbles. This may cause some TZ solution to overflow onto the slide, but you can absorb the excess liquid with a towel.
+:::
+
+### Imaging set up and capture
+
+::: {.callout-tip}
+#### Requirements:
+
+::: {.grid}
+
+::: {.g-col-6}
+
+* Dino-Lite model AM4113T
+
+* Dino-Lite clamp e.g., RK-05
+
+* USB backlit surface (light box) with adjustable brightness
+
+:::
+  
+::: {.g-col-6}
+
+* Laptop/Computer with a minimum of 2 USB ports
+
+* DinoCapture software version 2 or 3 installed
+
+
+:::
+  
+:::  
+
+:::
+
+##### Procedure:
+::: column-margin
+![Setup for imaging orchid viability](images/fig7.png){#fig-setup fig-alt="A white laboratory bench, with a laptop on it. By the side of the laptop is an A4 sized light box, which has a dino-lite camera over one end of it. The dino-lite camera is being held up by a stand which is positioned adjacent to the light box. The light box and dino-light are connected to the laptop."}
+:::
+
+::: column-margin
+::: columns
+<div markdown="1" class="column" style="width: 50%;">
+    
+![Dino-Lite positioned over microscope slide on back-illuminated base](images/fig8.png){#fig-setup2 fig-alt="A close up of a back-illuminated lightbox with a microscope slide on it. The dino-lite camera is positioned directly over the microscope slide, held in place by a stand."}
+</div>
+
+<div markdown="1" class="column" style="width: 50%;">
+
+![Close-up showing separation between Dino-Lite and microscope slide](images/fig9.png){#fig-setup3 fig-alt="A close up of a microscope slide and the camera end of a dino-lite. The clear plastic section at the end of the dino-lite is only one to two millimetres away from the microscope slide."}
+
+</div>
+:::
+
+:::
+
+1. Use the clamp to hold the dino-lite in a vertical position above the lightbox, ensuring it can be lowered until it almost touches the   surface of the light box leaving enough space for a microscope slide to fit under it with a few millimetres to spare (see [@fig-setup](#fig-setup), [@fig-setup2](#fig-setup2) and [@fig-setup3](#fig-setup3)). 
+
+2. Turn on the computer and connect both the Dino-Lite and the backlit base via USB ports to the computer.
+
+3. Turn on the light box following the instruction manual for your specific make and model. 
+
+::: column-margin
+![DinoCapture screenshot highlighting the LED switch and autoexposure button](images/fig10.png){#fig-exposure fig-alt="A screenshot of the dinocapture software. It shows a dark grey background with a mixture of stained and unstained orchid seeds on it. In the top right corner of the screen shot is a series of five square symbols. The first has ‘AE’ written on it and the second is a symbol of a sun. The two symbols have arrows coming off them and the text ‘Auto exposure and LED off’ written over the screenshot."}
+:::
+4. Open the DinoCapture software (version 2 or 3) and:
+* Turn off the Dino-Lite LED lights
+* Turn off the auto exposure function ([@fig-exposure](#fig-exposure)).
+* Select a shutter speed between 1/15 and 1/60 - Play with these two shutter speed options and the light box brightens to obtain homogeneous white background without overexposing seed edges ([Fig. 12](#fig-backcolour)).
+
+5. Move the microscope slide around under the lens to maximise the number of seeds within focus, adjusting the brightness and focus as needed.
+
+::: column-margin
+![Optimal image background colour shown in the middle image](images/fig11.png){#fig-backcolour fig-alt="Three screenshots of the same image with different colours. The first has a dark grey background and the contrast between the seeds and the background is low. There is a red circle with a white cross in it at the bottom of this screen shot. The middle screenshot has a light grey background and a high contrast between the seeds and the background. This screenshot has a green circle with a tick in it on it. The final image has a bright creamy white background and the edges of the seeds blend into it. This is image has a red circle with a white cross in it on it."}
+:::
+6. Take a picture by pressing the camera icon in the  software live view window ([@fig-exposure](#fig-exposure))
+
+7. To save the image, right click on top of the image thumbnail in the left panel and “save as”. Remove all ticks from the “Imprint” section and select maximum image size and dpi. Save the image in .jpeg format. 
+
+8. Ensure file name contains all important information about the collection (species name, collection or accession number, replicate number (if applicable) and create a backup to ensure the information is not lost.
+
+### References
+
+Seed viability testing using the Tetrazolium Chloride stain (Draft) - Millennium Seed Bank, Standard Operating Procedures 2.2 
+
+Methodology for epiphytic orchid seed viability test using Triphenyl Tetrazolium Chloride (TZ) - Millennium Seed Bank, Standard Operating Procedures 2.21 
+
+Sigma's 2,3,5-Triphenyltetrazolium chloride Safety Data Sheet | [SDS](https://www.fishersci.be/chemicalProductData_uk/wercs?itemCode=12615296&lang=EN)
