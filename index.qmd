@@ -21,6 +21,10 @@ format:
 
 {{< include _protocol_fr.qmd >}}
 
+# 🇵🇹 Português (PT)
+
+{{< include _protocol_pt.qmd >}}
+
 <!-- # 🇪🇸 Español (ES) -->
 
 <!-- {{< include _protocol_es.qmd >}} -->
