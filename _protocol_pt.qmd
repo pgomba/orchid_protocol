@@ -1,0 +1,377 @@
+### Teste com Cloreto de Tetrazólio e Protocolo de Imagem
+
+A presente versão deste documento tem como objetivo descrever um sistema
+reproduzível para fotografar sementes de orquídeas coradas, a fim de criar uma base de
+dados de imagens para fins de treino de modelos. No entanto, permite também
+aproveitar esta oportunidade para atualizar os registos de viabilidade utilizando o seu
+próprio protocolo de avaliação.
+
+### Preparação da solução a 1% de Cloreto de Tetrazólio (TZ) {#sec-preparationpt}
+
+::: {.callout-tip}
+#### Requisitos:
+
+::: {.grid}
+
+::: {.g-col-6}
+
+* Fosfato monopotássico (KH~2~PO~4~) | [SDS](https://www.fishersci.co.uk/chemicalProductData_uk/wercs?itemCode=10598250&lang=pt) | CAS: 7778-77-0
+
+* Fosfato dissódico di-hidratado (Na~2~HPO~4~) | [SDS](https://www.fishersci.no/store/msds?partNumber=10316440&countryCode=NO&language=en) | CAS: 10028-24-7
+
+* Cloreto de 2,3,5-trifenil tetrazólio | [SDS](https://www.fishersci.be/chemicalProductData_uk/wercs?itemCode=12615296&lang=pt)
+
+* Balança de precisão
+
+* Capela de exaustão
+:::
+
+::: {.g-col-6}
+
+* Luvas em conformidade com EN374 e proteção ocular em conformidade com
+EN166
+
+* Frasco âmbar de 1L ou frasco de vidro transparente de 1L com folha de alumínio
+
+* Água destilada
+
+* Agitador magnético
+
+* Medidor de pH
+
+:::
+
+:::
+
+:::
+
+
+![Frasco âmbar de 1L contendo 1% de Tetrazólio](images/amber_bottle.png){#fig-bottle fig-alt="um frasco âmbar com tampa
+azul de rosca e um rótulo na frente. O rótulo indica chemical & concentration, 1% TZ,
+initials PGB, date May 23 (O produto químico e a concentração, 1% TZ, as iniciais PGB e
+a data de maio de 2023). Apresenta também um pictograma de perigo para a saúde." aria-description="" width=30%}
+
+
+##### Procedimento:
+
+1. Dissolver 3,63 g de fosfato monopotássico (KH~2~PO~4~) em 400 mL de água
+destilada num copo de vidro.
+
+2. Dissolver 7,13 g de fosfato dissódico di-hidratado (Na~2~HPO~4~) em 600 mL de água
+destilada num copo de vidro separado.
+
+3. Quando estas soluções estiverem completamente dissolvidas, misturar as duas num recipiente de vidro de 1 L e adicionar 10 g de cloreto de 2,3,5-trifenil tetrazólio. Mexer até todo o pó estar dissolvido e verificar se o pH da solução está entre 6 e 8.
+
+4. Rotular o frasco com as suas iniciais, o conteúdo, a data de preparação e o símbolo de perigo químico apropriado (ou de acordo com os protocolos específicos do seu laboratório) e armazenar no escuro a 4 °C por um período máximo de 3 meses. Caso tenha utilizado um frasco de vidro transparente em vez de um frasco âmbar, envolver o frasco em folha de alumínio antes de armazenar.
+
+::: {.callout-warning}
+### Nota
+Qualquer reagente que desenvolva uma coloração rosa deve ser eliminado.
+:::
+
+### Coloração das orquídeas
+
+::: {.callout-tip}
+#### Requisitos:
+
+::: {.grid}
+
+::: {.g-col-6}
+
+* Papel de filtro com 5 cm de diâmetro
+
+* Folha de alumínio
+
+* Clipe de papel revestido de plástico
+
+* Lápis
+
+* Solução de TZ a 1% (ver [secção anterior](#sec-preparationpt))
+
+:::
+
+::: {.g-col-6}
+
+* Recipiente de vidro Schott com capacidade entre 10 e 15 mL
+
+* Luvas em conformidade com EN374
+
+* Água destilada
+
+* Óculos de proteção (EN166)
+
+* Estufa a 30 °C
+
+:::
+
+:::
+
+:::
+
+##### Procedimento:
+1. Dobrar uma folha de papel de filtro para criar um pequeno pacote quadrado,
+seguindo o diagrama da [@fig-foldpt](#fig-foldpt) (Passos 1 a 3)
+
+2. Identificar o exterior do pacote com um lápis, indicando o número de acesso ou
+de coleção da semente (e o número de réplica, se aplicável).
+
+3. Desdobrar o pacote e colocar menos de 300 sementes de orquídea de uma
+única coleção no centro do papel ([@fig-foldpt](#fig-foldpt), Passo 4). O número correto de
+sementes pode ser determinado utilizando dados de peso das sementes e uma
+balança de precisão, quando disponível, ou estimado retirando as sementes
+com uma espátula, conforme mostrado na [@fig-scooppt](#fig-scooppt).
+
+4. Voltar a dobrar o pacote em forma quadrada e utilizar um clipe de papel
+revestido de plástico para o fechar ([@fig-foldpt](#fig-foldpt) Passos 5-7)
+
+5. Submergir o pacote na solução de TZ a 1% dentro de um frasco Schott envolto
+em dupla camada de folha de alumínio ([@fig-foldpt](#fig-foldpt), Passo 8), certificando-se de que o
+pacote fica totalmente submerso.
+
+6. Colocar na estufa a 30 °C durante um mínimo de 24 horas, podendo permanecer
+até 48 horas.
+
+
+![Instruções para dobrar corretamente o papel de forma a garantir que as
+sementes não se perdem enquanto estão submersas na solução de TZ](images/folding_instructions.jpg){#fig-foldpt fig-alt="Uma
+sequência de 8 passos e uma legenda com os símbolos utilizados. O Passo 1 consiste
+em dobrar o círculo de papel de filtro ao meio. No Passo 2, com a borda dobrada
+voltada para si, dobrar o quarto superior do papel de filtro para baixo. No Passo 3, deve
+agora ter um retângulo estreito com duas bordas curvas curtas. Dobrar cada borda
+curva em direção ao centro, utilizando a borda da dobra superior como guia para as
+linhas de dobra. No Passo 4, desdobrar o papel de filtro. No Passo 5, colocar as
+sementes de orquídea no centro do papel de filtro. No Passo 6, repetir os passos 1 a 3.
+No Passo 7, com a borda longa dobrada voltada para si, dobrar a borda esquerda do
+pacote de papel de filtro até encontrar a borda direita. No Passo 8, prender o pacote
+com um clipe de papel."}
+
+
+
+![Espátula contendo um volume adequado de sementes para o teste. Este
+exemplo utiliza uma espátula de 100 mm de comprimento.](images/scoop2.jpg){#fig-scooppt fig-alt="uma espátula Chattaway
+colocada horizontalmente, com um close-up da extremidade inclinada coberta com
+uma amostra de sementes."}
+
+
+### Preparação da lâmina para microscopia e imagiologia
+
+::: {.callout-tip}
+#### Requisitos:
+
+::: {.grid}
+
+::: {.g-col-6}
+
+* Pinças finas
+
+* Solução de TZ a 1%
+
+* Lâmina de microscópio de vidro (fosca)
+
+* Lamelas
+
+
+:::
+
+::: {.g-col-6}
+
+* Pipeta (1 mL)
+
+* Luvas em conformidade com EN374
+
+* Óculos de proteção
+
+
+:::
+
+:::
+
+:::
+
+##### Procedimento:
+
+1. Retirar o pacote da solução de TZ e remover cuidadosamente o clipe de papel,
+evitando rasgar o papel. Desdobrar o papel de filtro sobre uma superfície plana.
+
+2. Com uma pinça de ponta fina e extremidade plana, raspar suavemente as
+sementes do papel de filtro para uma lâmina de microscópio. Embora algumas
+sementes caiam diretamente sobre a lâmina, é provável que a maioria fique
+presa às pontas das pinças devido à eletricidade estática ([@fig-seedscrappt](#fig-seedscrappt)). Estas podem
+ser facilmente removidas aplicando cuidadosamente uma gota de solução de TZ
+a 1% com uma pipeta de transferência padrão de 1 mL na ponta das pinças,
+sobre a lâmina ([@fig-droppt](#fig-droppt)). O número ideal de gotas de solução de TZ a 1% que uma
+lâmina de microscópio pode conter situa-se entre 2,5 e 3 (2 gotas, no caso de
+lâminas quadradas).
+
+3. Mover as pinças em círculo sobre a superfície da lâmina, dentro da solução de
+TZ, para garantir que todas as sementes sejam transferidas para a lâmina e
+tentar separar quaisquer aglomerados de sementes que possam ter-se formado ([@fig-swirlpt](#fig-swirlpt)).
+
+4. Por fim, posicionar cuidadosamente a lamela, evitando que as sementes e o
+líquido escorram da lâmina ([@fig-coverpt](#fig-coverpt), é aqui que o limite de 3 gotas de solução de
+TZ a 1% se revela útil), minimizando o número de bolhas de ar. Para isso,
+pressionar o centro da lamela sobre o líquido em vez de começar a cobrir pelas
+bordas.
+
+::: {layout-nrow=2}
+
+![As sementes podem ficar presas na ponta das pinças depois de serem
+retiradas do papel de filtro.](images/fig3.png){#fig-seedscrappt fig-alt="um close-up da extremidade de uma pinça sobre uma
+lâmina de vidro. Há algumas sementes na lâmina, mas muitas permanecem presas às
+pontas da pinça."}
+
+![Utilize uma gota de solução de TZ para soltar as sementes presas nas pontas
+da pinça sobre a lâmina do microscópio.](images/fig4.png){#fig-droppt fig-alt="Um close-up de uma pinça sobre uma lâmina
+de vidro. Há várias sementes na lâmina, mas muitas continuam presas às pontas da
+pinça. A extremidade de uma pipeta é posicionada próxima das pontas da pinça,
+libertando uma gota de líquido que toca nas sementes de orquídea nas pontas da
+pinça."}
+
+![Distribua as sementes de forma uniforme na gota de líquido, movendo
+suavemente as pinças em círculos.](images/fig5.png){#fig-swirlpt fig-alt="um close-up da extremidade de uma pinça sobre
+uma lâmina de vidro. As pontas da pinça estão mergulhadas numa pequena poça de
+líquido sobre a lâmina, com sementes de orquídea tanto no líquido como na pinça.
+Uma seta preta curva foi desenhada acima das pinças.."}
+
+![Coloque uma lamela sobre a lâmina do microscópio, minimizando ao máximo
+a formação de bolhas](images/fig6.png){#fig-coverpt fig-alt="um close-up de uma lâmina de vidro e das pontas de dedos
+com luvas. Os dedos seguram uma lamela quadrada, cuja borda inferior toca o líquido
+sobre a lâmina."}
+
+:::
+
+
+
+::: {.callout-note collapse="true"}
+#### Bolhas a mais? Expanda para ver algumas dicas e sugestões
+
+Algumas bolhas podem ficar presas entre a lamela e a lâmina do microscópio, o que
+pode afetar a análise automática de viabilidade. Para reduzir o número de bolhas,
+posicione a pipeta de 1 mL junto à fenda entre a lamela e a lâmina, e liberte lentamente
+um pouco de líquido para ajudar a desalojar as bolhas. Isto pode fazer com que alguma
+solução de TZ transborde sobre a lâmina, mas o excesso pode ser absorvido com uma
+toalha.
+:::
+
+### Configuração e captação de imagens
+
+::: {.callout-tip}
+#### Requisitos:
+
+::: {.grid}
+
+::: {.g-col-6}
+
+* Câmara Dino-Lite modelo AM4113T
+
+* Suporte Dino-Lite, por exemplo RK-05
+
+* Superfície retroiluminada USB (caixa de luz) com brilho ajustável
+
+:::
+
+::: {.g-col-6}
+
+* Portátil/computador com um mínimo de 2 portas USB
+
+* Software DinoCapture versão 2 ou 3 instalado
+
+
+:::
+
+:::
+
+:::
+
+##### Procedimento:
+1. Utilize o suporte para manter a câmara Dino-Lite numa posição vertical acima
+da caixa de luz, garantindo que possa ser baixada até quase tocar a superfície da
+caixa, deixando espaço suficiente para colocar uma lâmina de microscópio por
+baixo, com alguns milímetros de folga (ver [@fig-setuppt](#fig-setuppt), [@fig-setuppt2](#fig-setuppt2) e [@fig-setuppt3](#fig-setuppt3)).
+
+2. Ligue o computador e conecte tanto a câmara Dino-Lite como a base
+retroiluminada às portas USB do computador.
+
+3. Ligue a caixa de luz seguindo as instruções do manual do fabricante específico
+do seu modelo.
+
+4. Abra o software DinoCapture (versão 2 ou 3) e:
+* Desligue as luzes LED da Dino-Lite
+* Desative a função de exposição automática ([@fig-exposurept](#fig-exposurept)).
+* Selecione uma velocidade do obturador entre 1/15 e 1/60 – Experimente
+estas duas velocidades e ajuste o brilho da caixa de luz até obter um fundo
+branco homogéneo, sem sobre-expor as bordas das sementes ([Fig. 12](#fig-backcolour)).
+
+5. Mova a lâmina do microscópio sob a lente para maximizar o número de
+sementes em foco, ajustando o brilho e o foco conforme necessário.
+
+6. Tire uma fotografia pressionando o ícone da câmara na janela de visualização ao
+vivo do software ([@fig-exposurept](#fig-exposurept))
+
+7. Para guardar a imagem, Clique com o botão direito do rato sobre a miniatura da
+imagem no painel esquerdo e selecione save as (guardar como). Remova todas
+as opções assinaladas na secção imprint (imprint) e selecione o tamanho e
+resolução máximos da imagem. Guarde o ficheiro no formato .jpeg.
+
+8. Certifique-se de que o nome do ficheiro inclui todas as informações importantes
+sobre a coleção (nome da espécie, número de coleção ou de acesso, número de
+réplica, se aplicável) e crie uma cópia de segurança para garantir que as
+informações não se perdem.
+
+![Configuração para captura de imagens de viabilidade de orquídeas](images/fig7.png){#fig-setuppt fig-alt="uma
+bancada de laboratório branca com um portátil sobre ela. Ao lado do portátil encontra-
+se uma caixa de luz do tamanho de uma folha A4, sobre uma das extremidades da qual
+está posicionada uma câmara Dino-Lite. A câmara Dino-Lite é sustentada por um
+suporte colocado ao lado da caixa de luz. Tanto a caixa de luz como a câmara Dino-Lite
+estão ligadas ao portátil."}
+
+
+
+::: columns
+<div markdown="1" class="column" style="width: 50%;">
+
+![Dino-Lite posicionada sobre a lâmina do microscópio em base retroiluminada](images/fig8.png){#fig-setuppt2 fig-alt="um close-up de uma caixa de luz retroiluminada com uma lâmina de microscópio
+sobre ela. A câmara Dino-Lite está posicionada diretamente acima da lâmina e é
+mantida no lugar por um suporte."}
+</div>
+
+<div markdown="1" class="column" style="width: 50%;">
+
+![Close-up mostrando a distância entre a Dino-Lite e a lâmina do microscópio](images/fig9.png){#fig-setuppt3 fig-alt="um close-up de uma lâmina de microscópio e da extremidade da câmara Dino-Lite. A
+secção plástica transparente na extremidade da Dino-Lite encontra-se apenas a um ou
+dois milímetros de distância da lâmina."}
+
+</div>
+
+:::
+
+
+
+![Captura de ecrã do DinoCapture destacando o interruptor do LED e o botão
+de exposição automática](images/fig10.png){#fig-exposurept fig-alt="uma captura de ecrã do software DinoCapture. Mostra um
+fundo cinzento-escuro com uma mistura de sementes de orquídea coradas e não
+coradas. No canto superior direito da captura encontram-se cinco símbolos
+quadrados. O primeiro tem “AE” escrito e o segundo apresenta o símbolo de um sol.
+Ambos têm setas apontando para eles, acompanhadas do texto Auto exposure and LED
+off (Exposição automática e LED desligados) sobre a imagem."}
+
+
+
+
+![Cor de fundo ideal da imagem mostrada na imagem central](images/fig11.png){#fig-backcolour fig-alt="três capturas
+de ecrã da mesma imagem com diferentes cores de fundo. A primeira apresenta um
+fundo cinzento-escuro, e o contraste entre as sementes e o fundo é baixo. Há um
+círculo vermelho com uma cruz branca na parte inferior desta imagem. A captura
+central tem um fundo cinzento-claro e um alto contraste entre as sementes e o fundo;
+nesta imagem há um círculo verde com um visto. A última imagem apresenta um fundo
+branco cremoso e as bordas das sementes confundem-se com ele; esta imagem tem
+um círculo vermelho com uma cruz branca."}
+
+
+### Referências
+
+Seed viability testing using the Tetrazolium Chloride stain (Draft) - Millennium Seed Bank, Standard Operating Procedures 2.2
+
+Methodology for epiphytic orchid seed viability test using Triphenyl Tetrazolium Chloride (TZ) - Millennium Seed Bank, Standard Operating Procedures 2.21
+
+Sigma's 2,3,5-Triphenyltetrazolium chloride Safety Data Sheet | [SDS](https://www.fishersci.be/chemicalProductData_uk/wercs?itemCode=12615296&lang=pt)
