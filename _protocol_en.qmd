@@ -56,7 +56,7 @@ The current version of this document aims to outline a replicable system to phot
 
 ::: {.callout-warning}
 ### Note
-Any reagent that develops a pink  colour should be discarded
+Any reagent that develops a pink colour should be discarded
 :::
 
 ### Orchid staining
