@@ -216,25 +216,25 @@ Certaines bulles peuvent être piégées entre la lamelle couvre-objet et la lam
 :::
 
 ##### Procédure :
-![Configuration pour l'imagerie de la viabilité des orchidées. ](images/fig7.png){#fig-setup fig-alt="Une paillasse de laboratoire blanche sur laquelle est posé un ordinateur portable. À côté de l'ordinateur portable se trouve un caisson lumineux de taille A4, dont l'une des extrémités est équipée d'une caméra Dino-Lite. La caméra Dino-Lite est maintenue par un statif placé à côté du caisson lumineux. Le caisson lumineux et la Dino-Lite sont connectés à l'ordinateur portable."}
+![Configuration pour l'imagerie de la viabilité des orchidées. ](images/fig7.png){#fig-setupfr fig-alt="Une paillasse de laboratoire blanche sur laquelle est posé un ordinateur portable. À côté de l'ordinateur portable se trouve un caisson lumineux de taille A4, dont l'une des extrémités est équipée d'une caméra Dino-Lite. La caméra Dino-Lite est maintenue par un statif placé à côté du caisson lumineux. Le caisson lumineux et la Dino-Lite sont connectés à l'ordinateur portable."}
 
 
 ::: columns
 <div markdown="1" class="column" style="width: 50%;">
 
-![Dino-Lite positionné au-dessus d'une lame de microscope sur une base rétroéclairée. ](images/fig8.png){#fig-setup2 fig-alt="Un gros plan d'un caisson lumineux rétroéclairé sur lequel est posée une lame de microscope. La caméra Dino-Lite est positionnée directement au-dessus de la lame de microscope, maintenue en place par un statif."}
+![Dino-Lite positionné au-dessus d'une lame de microscope sur une base rétroéclairée. ](images/fig8.png){#fig-setupfr2 fig-alt="Un gros plan d'un caisson lumineux rétroéclairé sur lequel est posée une lame de microscope. La caméra Dino-Lite est positionnée directement au-dessus de la lame de microscope, maintenue en place par un statif."}
 </div>
 
 <div markdown="1" class="column" style="width: 50%;">
 
-![Gros plan montrant la séparation entre le Dino-Lite et la lame de microscope. ](images/fig9.png){#fig-setup3 fig-alt="Un gros plan d'une lame de microscope et de l'extrémité de la caméra Dino-Lite. La partie en plastique transparent à l'extrémité du Dino-Lite n'est qu'à un ou deux millimètres de la lame de microscope. "}
+![Gros plan montrant la séparation entre le Dino-Lite et la lame de microscope. ](images/fig9.png){#fig-setupfr3 fig-alt="Un gros plan d'une lame de microscope et de l'extrémité de la caméra Dino-Lite. La partie en plastique transparent à l'extrémité du Dino-Lite n'est qu'à un ou deux millimètres de la lame de microscope. "}
 
 </div>
 
 
 :::
 
-1. Utilisez le statif pour maintenir le Dino-Lite en position verticale au-dessus du caisson lumineux, en veillant à ce qu'il puisse être abaissé jusqu'à presque toucher la surface du caisson lumineux et en laissant suffisamment d'espace pour qu'une lame de microscope puisse être placée en dessous avec quelques millimètres de réserve (voir [@fig-setup](#fig-setup), [@fig-setup2](#fig-setup2) and [@fig-setup3](#fig-setup3)).
+1. Utilisez le statif pour maintenir le Dino-Lite en position verticale au-dessus du caisson lumineux, en veillant à ce qu'il puisse être abaissé jusqu'à presque toucher la surface du caisson lumineux et en laissant suffisamment d'espace pour qu'une lame de microscope puisse être placée en dessous avec quelques millimètres de réserve (voir [@fig-setupfr](#fig-setupfr), [@fig-setupfr2](#fig-setupfr2) and [@fig-setupfr3](#fig-setupfr3)).
 
 2. Allumez l'ordinateur et connectez le Dino-Lite et la base rétroéclairée à l'ordinateur via les ports USB.
 
@@ -243,7 +243,7 @@ Certaines bulles peuvent être piégées entre la lamelle couvre-objet et la lam
 4. Ouvrez le logiciel DinoCapture (version 2 ou 3) et : 
 * Éteignez les voyants lumineux du Dino-Lite 
 * Désactivez la fonction d'exposition automatique ([@fig-exposurefr](#fig-exposurefr)).
-* Sélectionnez une vitesse d'obturation entre 1/15 et 1/60 - Jouez avec ces deux options de vitesse d'obturation afin que le caisson lumineux s'éclaircisse et pour obtenir un fond blanc homogène sans surexposer les bords des semences ([Fig. 12](#fig-backcolour)).
+* Sélectionnez une vitesse d'obturation entre 1/15 et 1/60 - Jouez avec ces deux options de vitesse d'obturation afin que le caisson lumineux s'éclaircisse et pour obtenir un fond blanc homogène sans surexposer les bords des semences ([Fig. 12](#fig-backcolourfr)).
 
 5. Déplacez la lame du microscope sous l'objectif pour maximiser le nombre de semences mises au point, en ajustant la luminosité et la mise au point si nécessaire.
 
@@ -256,7 +256,7 @@ Certaines bulles peuvent être piégées entre la lamelle couvre-objet et la lam
 ![Capture d'écran de DinoCapture mettant en évidence l'interrupteur à voyant lumineux et le bouton d'exposition automatique](images/fig10.png){#fig-exposurefr fig-alt=""}
 
 
-![La couleur optimale de l'arrière-plan de l'image est indiquée dans l'image du milieu.](images/fig11.png){#fig-backcolour fig-alt="Trois captures d'écran de la même image avec des couleurs différentes. La première présente un arrière-plan gris foncé et le contraste entre les semences et l’arrière-plan est faible. Un cercle rouge avec une croix blanche se trouve en bas de cette capture d'écran. La capture d'écran du milieu présente un arrière-plan gris clair et un contraste élevé entre les semences et l'arrière-plan. Cette capture d'écran comporte un cercle vert avec une coche. L'image finale présente un arrière-plan blanc crème lumineux et les bords des semences se fondent dedans. Cette image comporte un cercle rouge avec une croix blanche."}
+![La couleur optimale de l'arrière-plan de l'image est indiquée dans l'image du milieu.](images/fig11.png){#fig-backcolourfr fig-alt="Trois captures d'écran de la même image avec des couleurs différentes. La première présente un arrière-plan gris foncé et le contraste entre les semences et l’arrière-plan est faible. Un cercle rouge avec une croix blanche se trouve en bas de cette capture d'écran. La capture d'écran du milieu présente un arrière-plan gris clair et un contraste élevé entre les semences et l'arrière-plan. Cette capture d'écran comporte un cercle vert avec une coche. L'image finale présente un arrière-plan blanc crème lumineux et les bords des semences se fondent dedans. Cette image comporte un cercle rouge avec une croix blanche."}
 
 
 ### Références
