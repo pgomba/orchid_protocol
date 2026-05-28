@@ -1,0 +1,267 @@
+### Ireo dingana arahina amin’ny fanaovana fitsapana sy fitarafana amin’ny Chlorure de tétrazolium 
+
+Ny tahadikan’ity antontan-taratasy ity dia natao mba hanolorana rafitra azo averina atao hakana sary ny voan’ny orkide voaloko, mba hahazoana mandrafitra angon-tsary hatao lasitra enti-manofana. Na izany aza dia manome toerana hahafahanao manavao ny firaketanao momba ny fahavelomana izay nalainao tamin'ny dingana fandrefesanao manokana izany.
+
+### Fikarakarana fangarona Chlorure de tétrazolium (TZ) 1%   {#sec-preparationmg}
+
+::: {.callout-tip}
+#### Zavatra ilaina:
+
+::: {.grid}
+
+::: {.g-col-6}
+
+* Dihydrogénophosphate de potassium (KH~2~PO~4~) | [SDS](https://www.fishersci.co.uk/chemicalProductData_uk/wercs?itemCode=10598250&lang=FR) | CAS: 7778-77-0
+
+* Hydrogénophosphate de sodium (Na~2~HPO~4~) | [SDS](https://www.fishersci.no/store/msds?partNumber=10316440&countryCode=NO&language=fr) | CAS: 10028-24-7
+
+* Chlorure de 2,3,5-triphényl-2H-tétrazolium | [SDS](https://www.fishersci.be/chemicalProductData_uk/wercs?itemCode=12615296&lang=FR)
+
+* Fandanjana
+
+* Fitaovana mitroka rivotra 
+:::
+
+::: {.g-col-6}
+
+* Fonon-tanana fiaro manaraka ny fenitra EN374 & solomaso fiaro manaraka ny fenitra EN166
+
+* Tavoahangy mavo 1L na Tavoahangy mazava 1L sy taratasy vita amin’ny alimo
+
+* Rano voadio
+
+* Fanafangaroana mandeha amin’ny andriamby
+
+* Fandrefesana pH 
+
+:::
+
+:::
+
+:::
+
+
+![Tavoahangy mavo 1L misy Tétrazolium 1%](images/amber_bottle.png){#fig-bottlemg fig-alt="tavoahangy mavo misy sarony manga sy etikety eo anoloana. Ilay etikety dia ahitana ny chemical & concentration, 1% TZ, initial PGB date May 23 (Anaran’ilay vokatra simika sy ny singa mandrafitra azy, TZ 1%, ireo litera PGB, daty May 23). Ahitana kisary maneho ny loza haterany amin’ny fahasalamana ihany koa izany." aria-description="" width=30%}
+
+
+##### Drafitra arahana:
+
+1. Levonina ao anaty rano voadio 400 mL amin’ny vera lehibe ny dihydrogénophosphate de potassium (KH~2~PO~4~) 3.63g.
+
+2. Levonina ao anaty rano voadio 600 mL amin’ny vera lehibe hafa ny hydrogénophosphate de disodium (Na~2~HPO~4~) 7.13g.
+
+3. Rehefa levona avokoa ireo singa ireo dia atambatra ao anaty tavoahany 1L ireo fangaro ireo ary androtsahana chlorure de 2,3,5-tripphényltétrazolium 10 g. Haroharoy mandrapaha-levona tanteraka ireo vovon-javatra ary jereo fa tokony ho eo anelanelan’ny 6 sy 8 ny pH an’ilay fangaro.
+
+4. Soraty amin’ny etikety eo amin’ilay tavoahangy ireo litera voalohany amin’ny anaranao, ny anaran’ilay fangaro, ny daty nanamboarana azy ary marika maneho ny loza simika mifanaraka aminy (na izay mifanaraka amin’ireo dingana tsy maintsy arahina manokana ao amin’ny toeram-piasanao), avy eo dia atokany amin’ny toerana maizina amin’ny maripana 4°C mandritra ny 3 volana raha ela indrindra. Raha toa ka tavoahangy mazava no nampiasainao ho solon’ny tavoahany mavo dia sarony amin’ny taratasy vita amin’ny alimo mialohan’ny hanokanana azy.
+
+::: {.callout-warning}
+### Fanamarihana
+Ny vokatra simika rehetra izay manova ny lokon'ny fangaro ho mavo kely dia tsy maintsy ariana avokoa
+:::
+
+### Fandokoana ny orkide
+
+::: {.callout-tip}
+#### Zavatra ilaina :
+
+::: {.grid}
+
+::: {.g-col-6}
+
+* Taratasy fanivanana mirefy 5cm savaivony
+
+* Taratasy vita amin’ny alimo
+
+* Traombaonina mifono plastika
+
+* Penisilihazo
+
+* Fangarona TZ 1% (jereo ny [fizarana teo aloha](#sec-preparationmg))
+
+:::
+
+::: {.g-col-6}
+
+* Vera Schott lehibe mahazaka 10-15 mL
+
+* Fonon-tanana manaraka ny fenitra EN374
+
+* Rano voadio
+
+* Solomaso fiaro (manaraka ny fenitra EN166)
+
+* Fitaovana mitana hafanana amin’ny maripana 30°C
+
+:::
+
+:::
+
+:::
+
+##### Drafitra arahana:
+1. Aforeto ny taratasy fanivanana mba hanome fonosana efa-joro araky ny hita eo amin’ny [@fig-foldmg](#fig-foldmg) (dingana 1 ka hatramin’ny 3).
+
+2. Soraty amin’ny pensilihazo eo ivelan’ilay fonosana ny laharan’ny fandraisana na ny fanangonana ny voa (ary ny laharana taha-dika raha misy).
+
+3. Sokafy ilay fonosana ary apetraho eo afovoany ny voan’ny Orkide miisa latsaky ny 300 avy amin’ny vokatra iray ([@fig-foldmg](#fig-foldmg), Dingana faha-4). Azo fantarina ny isa marin’ireo voa amin’ny alalan’ny fampiasana fampahalalana mifandray amin’ny lanjan’ny voa sy fandanjana raha misy, na tombanana amin’ny alalan’ny fandraofana ireo voa araky ny hita eo amin’ny [@fig-scoopmg](#fig-scoopmg).
+
+4. Avereno aforitra ho efajoro ilay fonosana ary mampiasa traombaonina mifono plastika mba hamehezana azy tsy hivaha ([@fig-foldmg](#fig-foldmg), Dingana 5-7).
+
+5. Atsobohy ao anaty vera Schott lehibe misy fangaro TZ 1% mifono taratasy vita amin’ny alimo roa sosona ilay fonosana ([@fig-foldmg](#fig-foldmg), Dingana faha-8), aoka ho azonao antoka fa miroboka tanteraka ilay fonosana.
+
+6. 6.	Apetraho ao anaty fitaovana mitahiry hafanana amin’ny maripana 30°C mandritra ny 24 ora raha kely indrindra saingy tsy mihoatra ny 48 ora.
+
+
+![Toromarika amin’ny famalonana ny taratasy araky ny tokony ho izy mba hitandrovana ireo voa tsy ho very rehefa miroboka ao anaty TZ.](images/folding_instructions.jpg){#fig-foldmg fig-alt="Dingana 8 mifanaraka ary famaritana ireo kisary nampiasaina. Ny dingana voalohany dia ny famalonana ilay taratasy fanivanana boribory eo amin’ny atsasany. Dingana faha-2, eo amin’ilay sisiny mifanitsy aminao, avalony midina ny ampahefany amin’ilay taratasy fanivanana. Dingana faha-3, tokony hahazo mahitsizoro ety ianao izao miaraka amin’ny sisiny roa somary mivonkona. Avalony ho eo afovoany ny sisiny mivokona tsirairay amin’ny alalan’ny fampiasana ny sisin’ilay dian'ny famalonana ambony ho tari-dalana amin’ny famalonana. Dingana faha-4, sokafy ilay taratasy fanivanana. Dingana faha-5, apetraho eo afovoan’ilay taratasy fanivanana ireo voan’ny orkide. Dingana faha-6, Avereno atao ireo dingana 1 ka hatramin’ny 3. Dingana faha-7, amin’ny alalan’ilay sisiny lava navalona mifanitsy aminao, dia avereno avalona ho eo amin’ny sisiny havanana ny sisiny havia amin’ilay taratasy fanivanana. Dingana faha-8, tereo amin’ny traombaonina mifono plastika ilay fonosana." aria-description=""}
+
+
+
+![Ny fandraofana dia misy voa ampy ho tsapaina. Ity fitsapana ity dia nampiasana fandraofana 100 mm.](images/scoop2.jpg){#fig-scoopmg fig-alt="Fandraofana Chattaway, mitsilany, ary jery akaiky ny lohan’ny fandraofana Chattaway miaraka amin’ny voa santionany manarona ny lohany miolana." aria-description=""}
+
+
+### Fanomanana ny takelaky ny mikraoskaopy ho amin’ny fangalana sary
+
+::: {.callout-tip}
+#### Zavatra ilaina:
+
+::: {.grid}
+
+::: {.g-col-6}
+
+* Fiavotra manify
+
+* Fangarona TZ 1%
+
+* Talelaka fitaratra manify amin’ny mikraoskaopy (tsy mangarahara)
+
+* Rakony (lamelle)
+
+
+:::
+
+::: {.g-col-6}
+
+* Pipety (1 mL)
+
+* Fonon-tanana manaraka ny fenitra EN374
+
+* Solomaso fiaro
+
+
+:::
+
+:::
+
+:::
+
+##### Drafitra arahana:
+
+1. Tsoahy avy ao anatin’ilay fangarona TZ ny fonosana ary esory moramora ny traombaonina, tandremo tsy ho rovitra ilay taratasy. Sokafy ary velaro ilay taratasy fanivanana.
+
+2. Amin’ny alalan’ny fiavotra manify fisa-doha dia alaivo moramora ireo voa avy eo amin’ilay taratasy fanivanana ary apetraho eo amin’ilay takelaka fitaratra manify amin’ny mikraoskaopy. Na dia mety mipetraka eo amin’ilay takelaka fitaratra aza ny voa sasany, ny ankabeazany kosa dia hiraikitra amin’ilay fiavotra noho ny hery manintona ([@fig-seedscrapmg](#fig-seedscrapmg)). Azo alana mora foana izany amin’ny fampiasana TZ 1% in-dray mitete amin’ny pipety 1 mL avy eo amin’ny lohan’ilay fiavotra ho eo amin’ilay takelaky ny mikraoskaopy ([@fig-dropmg](#fig-dropmg)). Ny habetsaky ny TZ 1% zakan’ny takelaky ny mikraoskaopy iray dia eo anelanelan’ny 2.5 sy 3 mitete eo ho eo (2 mitete raha toa efajoro).
+
+3. Ahetsiketseho ao anatin’ilay fangarona TZ ilay fiavotra eo ambonin’ilay takelaky ny mikraoskaopy mba hahazoana toky fa tafapetraka eo amin’ilay takelaka avokoa ireo voa ary ezaho ny manasaraka ireo voa izay mety mivangongo ([@fig-swirlmg](#fig-swirlmg)).
+
+4. Farany dia apetraho moramora ilay rakony hialana amin’ny mety hirarahan’ireo voa sy ranon-javatra ivelan’ilay takelaka ([@fig-covermg](#fig-covermg), eto no mahatonga ilay fetra 3 mitete ana TZ 1% voalaza teo aloha ho tena zava-dehibe) ary ezaho ferana ireo tapoaka miforona. Mba hanaovana izany dia ezaho ny manery moramora ny ivon’ilay rakony fa tsy atomboka avy amin’ny sisiny rehefa manarona azy.
+
+
+::: {layout-nrow=2}
+
+![Mety hiraikitra amin’ilay fiavotra ireo voa rehefa avy notsoahina hiala ny taratasy fanivanana.](images/fig3.png){#fig-seedscrapmg fig-alt="jery akaiky ny lohan’ny fiavotra eo amin’ny takelaka fitaratra. Misy voa vitsy eo amin’ilay takelaka, saingy maro no miraikitra eo amin’ny lohan’ilay fiavotra" aria-description=""}
+
+![Mampiasa TZ indray mitete hamindrana ireo voa miraikitra amin’ny fiavotra ho eo amin’ny takelaka fitaratry ny mikraskaopy. ](images/fig4.png){#fig-dropmg fig-alt="jery akaiky ilay fiavotra eo amin’ny takelaka fitaratra. Misy voa maromaro eo amin’ilay takelaka fitaratra, saingy mbola maro no miraikitra eo amin’ny lohan’ilay fiavotra. Atao akaikin’ny lohan’ilay fiavotra ny lohan’ny pipety, avela hirotsaka ny ranon-javatra indray mitete avy amin’izany ary kasiho ireo voan’ny orkide eo amin’ny lohan’ny fiavotra." aria-description=""}
+
+![Haparitao tsara ao anatin’ilay teten-drano ireo voa amin’ny alalan’ny fanetsiketsehana moramora ilay fiavotra. ](images/fig5.png){#fig-swirlmg fig-alt="jery akaiky ny lohan’ny fiavotra eo amin’ny takelaka fitaratra. Mipetraka eo amin’ny ranon-javatra eo amin’ny takelaka ireo lohan’ilay fiavotra, ary ahitana voa orkide ao anatin’ilay ranon-javatra sy eo amin’ilay fiavotra. Misy tsipika mainty miolana misoritra eo ambonin’ilay fiavotra." aria-description=""}
+
+![Asio rakony eo ambonin’ilay takelaky ny mikraoskaopy, ary ataovy izay tsy hiforonan’ny tapoaka arak’izay azo atao. ](images/fig6.png){#fig-covermg fig-alt="jery akaiky ny takelaka fitaratra sy ny loha-ratsana misy fonon-tanana. Ireo ratsan-tanana dia mihazona rakony efajoro, izay mikasika amin’ilay ranon-javatra ny sisiny iray." aria-description=""}
+
+
+:::
+
+
+::: {.callout-note collapse="true"}
+#### Raha feno tapoaka? Velabelaro ahazoana torohevitra sy soso-kevitra:
+
+Ireo tapoaka sasany dia mety hiangona ao anelanelan’ilay rakony sy ilay takelaky ny mikraoskaopy, ka mety hisy fiantraikany amin’ny famakafakana mandeha ho azy amin’ny fahavelomana. Mba hisoroana ny tapoaka be loatra dia apetraho eo akaikin’ny elanelan’ilay rakony sy ilay takelaka fitaratra ny pipety 1 mL ary andraraho ranon-javatra moramora mba hanalana ireo tapoaka. Mety hahatonga ilay fangarona TZ hiraraka ivelan’ilay takelaka izany, saingy azonao fafana amin’ny lamba famafana fotsiny ny ranon-javatra mihoatra.
+:::
+
+### Fikirakirana sy fakana ireo sary
+
+::: {.callout-tip}
+#### Zavatra ilaina:
+
+::: {.grid}
+
+::: {.g-col-6}
+
+* Modely Dino-Lite AM4113T
+
+* Fametahana Dino-Lite, RK-05 ohatra
+
+* Latabatra misy jiro mandeha amin’ny USB (boaty manazava) miaraka amin’ny hazavana azo hovaina
+
+:::
+
+::: {.g-col-6}
+
+* Solosaina misy USB 2 farafahakeliny
+
+* Rindrambaiko DinoCapture kinova 2 na 3 anaty solosaina
+
+
+:::
+
+:::
+
+:::
+
+##### Drafitra arahana:
+![ Fikirakirana ny fakana an-tsary ny fahaveloman’ny orkide. ](images/fig7.png){#fig-setupmg fig-alt="latabatra fotsy fiasa amin’ny labôratoara, misy solosaina eo amboniny. Eo akaikin’ilay solosaina dia ahitana boaty manazava amin’ny habeany A4, izay mirakitra fakan-tsarin’ny Dino-Lite amin’ny sisiny iray. Ilay fakan-tsarin’ny Dino-Lite dia hazonin’ny andry eo akaikin’ilay boaty manazava. Mifandray amin’ilay solosaina ilay boaty manazava sy Dino-Lite." aria-description=""}
+
+
+::: columns
+<div markdown="1" class="column" style="width: 50%;">
+
+![ Dino-Lite mihantona eo ambonin’ny takelaky ny mikraoskaopy amin’ny fitoerana mazava.](images/fig8.png){#fig-setupmg2 fig-alt="jery akaiky ny boaty manazava miaraka amin’ny takelaky ny mikaroskaopy eo aminy. Ahantona eo ambonin’ilay takelaky ny mikraoskaopy ny fakan-tsarin’ny Dino-Lite, hazonin’ny andry."}
+</div>
+
+<div markdown="1" class="column" style="width: 50%;">
+
+![Jery akaiky maneho ny elanelana misy eo amin’ilay Dino-Lite sy takelaky ny mikraoskaopy. ](images/fig9.png){#fig-setupmg3 fig-alt="Jery akaiky ny takelaky ny mikraoskaopy sy ny sisin’ny fakan-tsarin’ny Dino-Lite. Ny plastika mazava eo amin’ny sisin’ilay Dino-Lite dia mielanelana ray ra roa milimetatra fotsiny an’ilay takelaky ny mikraoskaopy." aria-description=""}
+
+</div>
+
+
+:::
+
+1. Ampiasao ilay fametahana mba hihazonana ilay Dino-Lite amin'ny adavany eo ambonin’ilay boaty manazava; aoka ho azo ampidinina mora foana izany ary tsy hajanona raha tsy efa hila hikasika ilay boaty manazava, mamela elanelana kely hampidirana nytakelaky ny mikraoskaopy miampy milimetatra vitsy (jereo ny [@fig-setupmg](#fig-setupmg), [@fig-setupmg2](#fig-setupmg2) ary ny [@fig-setupmg3](#fig-setupmg3)).
+
+2. Velomy ny solosaina ary ampifandraiso aminy amin’ny alalan’ny USB ny Dino-Lite sy ilay boaty manazava.
+
+3. Areheto ilay boaty manazava ary araho ny toromarika mifanaraka amin'ny marika sy ny modely ampiasainao.
+
+4. Sokafy ny rindrambaiko DinoCapture (kinova 2 na 3) ary: 
+* Piho ny jiro LED ilay Dino-Lite
+* Vonoy ny fanazavana mandeha ho azy ([@fig-exposuremg](#fig-exposuremg)).
+* Safidio ny hafainganam-pisokafan’ny lalan’ny hazavana amin’ny fakan-tsary ho eo anelanelan’ny 1/15 sy 1/60 - ampifandimbiaso ireo hafainganam-pisokafana ireo miaraka amin'ny hazavan'ny boaty manazava mba ahazoana sary fotsy mazava, tsy mampiharihary loatra ny sisin'ny voa ([Fig. 12](#fig-backcolourmg)).
+
+5. Akisaho ho eo ampototry ny hidinin’ny fakan-tsary ilay takelaky ny mikraoskaopy mba hampitomboana ny isan'ny voa hita mazava tsara, ary ovay araka izay maha mety azy ny hazavana sy ny fifantohan'ny sary.
+
+6. Alaivo ny sary amin’ny fikitihina ny sary fakan-tsary eo amin’ny efijery eo amin’ilay rindrambaiko ([@fig-exposuremg](#fig-exposuremg))
+
+7. Mba hahafahana mitahiry ny sary dia ataovy click droit eo amin'ny sary kely eo amin’ny tontonana havia ary kitiho ny save as (enregistrer sous). Esory avokoa ireo marika amin’ireo efajoro kely eo amin’ny imprint (Impression) ary safidio ny habe sy ny hatsaran’ny sary avo indrindra. Tehirizo amin’ny endriny .jpeg ny sary.
+
+8. Aoka ny anaran’ilay raki-tahiry mba hahitana ireo famahalalana rehetra momba ilay angona (anarana, angona na laharan’ny angona, laharana tahadika (raha misy) ary mamoròna dika mitovy mba hitandrovana ireo fampahalalana tsy ho very.
+jery akaiky ny rindrambaiko DinoCapture. Maneho tokon-tsary miloko volon-davenona izany miaraka amin’ny fangarona voana orkide misy pentina sy tsy misy pentina. Eo amin’ny sisiny havanana ambony amin’ilay sary dia ahitana marika efajoro dimy milahatra. Ny voalohany dia ahitana ny soratra ’AE’ ary ny faharoa kosa dia sary masoandro. Ireo marika roa dia samy ahitana tsipika sy teny Auto exposure and LED off (Hazavana mandeha ho azy sy jiro LED, tsy mandeha) misoratra eo amin’ny sary." aria-description=""}
+
+
+![Ny sary eo afovoany no maneho ny lokon’ny tokon-tsary mety indrindra.](images/fig11.png){#fig-backcolourmg fig-alt="sary iray, karazany telo araka ny loko samy hafa. Ny voalohany dia manana tokon-tsary miloko volon-davenona matroka ary ny fahasamihafana misy eo amin’ny voa sy ny tokon-tsary dia kely. Misy boribory mena misy X fotsy eo ambamin'ilay sary. Ilay sary manaraka dia manana tokon-tsary miloko volon-davenona mazava ary ny fahasamihafana misy eo amin’ny voa sy ny tokon-tsary dia mazava tsara. Ity sary ity dia ahitana boribory maitso misy marika 'mety'. Ilay sary farany dia manana tokon-tsary fotsy madio ary mifangaro amin'izany ary tsy tazana ny sisin'ny voa. Ity sary ity dia ahitana boribory mena misy X fotsy eo aminy." aria-description=""}
+
+
+### Fanovozan-kevitra
+
+Seed viability testing using the Tetrazolium Chloride stain (Draft) - Millennium Seed Bank, Standard Operating Procedures 2.2 
+
+Methodology for epiphytic orchid seed viability test using Triphenyl Tetrazolium Chloride (TZ) - Millennium Seed Bank, Standard Operating Procedures 2.21 
+
+Sigma's 2,3,5-Triphenyltetrazolium chloride Safety Data Sheet | [SDS](https://www.fishersci.be/chemicalProductData_uk/wercs?itemCode=12615296&lang=EN)

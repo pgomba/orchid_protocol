@@ -14,16 +14,28 @@ format:
 
 ::: {.panel-tabset} 
 
-# 🇬🇧 English (GB)
+# English (EN)
 {{< include _protocol_en.qmd >}}
 
-# 🇫🇷 Français (FR)
+# Français (FR)
 
 {{< include _protocol_fr.qmd >}}
 
-# 🇵🇹 Português (PT)
+# Português (PT)
 
 {{< include _protocol_pt.qmd >}}
+
+# ภาษาไทย (TH)
+
+{{< include _protocol_th.qmd >}}
+
+# Bahasa Indonesia (ID)
+
+{{< include _protocol_id.qmd >}}
+
+# Malagasy (MG)
+
+{{< include _protocol_mg.qmd >}}
 
 <!-- # 🇪🇸 Español (ES) -->
 
