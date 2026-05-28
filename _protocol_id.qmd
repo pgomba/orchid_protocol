@@ -41,7 +41,7 @@ Versi dokumen ini bertujuan untuk menjabarkan sistem yang dapat direplikasi untu
 :::
 
 
-![Botol cokelat 1 L berisi Tetrazolium 1%](images/amber_bottle.png){#fig-bottlein fig-alt="Botol cokelat dengan tutup ulir biru dan label di bagian depan. Label tersebut mencantumkan chemical & concentration, 1% TZ, initials PGB, date May 23 (Bahan Kimia & Konsentrasinya, TZ 1%, Inisial PGB, Tanggal: Mei 23). Label tersebut juga menampilkan piktogram bahaya kesehatan." aria-description="" width=30%}
+![Botol cokelat 1 L berisi Tetrazolium 1%](images/amber_bottle.png){#fig-bottlein fig-alt="Botol cokelat dengan tutup ulir biru dan label di bagian depan. Label tersebut mencantumkan chemical & concentration, 1% TZ, initials PGB, date May 23 (Bahan Kimia & Konsentrasinya, TZ 1%, Inisial PGB, Tanggal: Mei 23). Label tersebut juga menampilkan piktogram bahaya kesehatan."  width=30%}
 
 
 ##### Prosedur:
@@ -112,11 +112,11 @@ Setiap reagen yang berubah menjadi warna merah muda harus dibuang.
 6. Masukkan ke inkubator dengan suhu 30 °C selama minimal 24 jam, tetapi dapat diperpanjang hingga 48 jam.
 
 
-![Petunjuk untuk melipat kertas dengan benar agar benih tidak hilang saat direndam dalam larutan TZ .](images/folding_instructions.jpg){#fig-foldin fig-alt="Terdiri atas delapan langkah beserta keterangan simbol yang digunakan. Langkah 1 melipat kertas saring berbentuk lingkaran menjadi dua bagian sama besar. Langkah 2, dengan sisi lipatan menghadap ke arah Anda, lipat seperempat bagian atas kertas saring ke bawah. Langkah 3, sekarang Anda dapatkan bentuk persegi panjang sempit dengan dua sisi pendek yang melengkung. Lipat masing-masing sisi melengkung ke arah tengah, gunakan tepi lipatan atas sebagai panduan untuk garis lipat. Langkah 4, buka kembali lipatan kertas saring. Langkah 5, letakkan benih anggrek Anda di bagian tengah kertas saring. Langkah 6, ulangi langkah 1 sampai 3. Langkah 7, dengan sisi lipatan panjang menghadap ke arah Anda, lipat sisi kiri bungkus kertas saring hingga bertemu dengan sisi kanan. Langkah 8, tutup bungkus tersebut dengan penjepit kertas." aria-description=""}
+![Petunjuk untuk melipat kertas dengan benar agar benih tidak hilang saat direndam dalam larutan TZ .](images/folding_instructions.jpg){#fig-foldin fig-alt="Terdiri atas delapan langkah beserta keterangan simbol yang digunakan. Langkah 1 melipat kertas saring berbentuk lingkaran menjadi dua bagian sama besar. Langkah 2, dengan sisi lipatan menghadap ke arah Anda, lipat seperempat bagian atas kertas saring ke bawah. Langkah 3, sekarang Anda dapatkan bentuk persegi panjang sempit dengan dua sisi pendek yang melengkung. Lipat masing-masing sisi melengkung ke arah tengah, gunakan tepi lipatan atas sebagai panduan untuk garis lipat. Langkah 4, buka kembali lipatan kertas saring. Langkah 5, letakkan benih anggrek Anda di bagian tengah kertas saring. Langkah 6, ulangi langkah 1 sampai 3. Langkah 7, dengan sisi lipatan panjang menghadap ke arah Anda, lipat sisi kiri bungkus kertas saring hingga bertemu dengan sisi kanan. Langkah 8, tutup bungkus tersebut dengan penjepit kertas." }
 
 
 
-![Spatula yang berisi jumlah benih yang memadai untuk pengujian. Contoh ini menggunakan spatula sepanjang 100 mm.](images/scoop2.jpg){#fig-scoopin fig-alt="Spatula Chattaway yang diletakkan secara horizontal, serta tampilan dekat ujung spatula Chattaway yang memiliki ujung miring dengan contoh benih yang menutupi bagian tersebut." aria-description=""}
+![Spatula yang berisi jumlah benih yang memadai untuk pengujian. Contoh ini menggunakan spatula sepanjang 100 mm.](images/scoop2.jpg){#fig-scoopin fig-alt="Spatula Chattaway yang diletakkan secara horizontal, serta tampilan dekat ujung spatula Chattaway yang memiliki ujung miring dengan contoh benih yang menutupi bagian tersebut." }
 
 
 ### Persiapan salindia mikroskop untuk pencitraan
@@ -167,13 +167,13 @@ Setiap reagen yang berubah menjadi warna merah muda harus dibuang.
 
 ::: {layout-nrow=2}
 
-![Benih mungkin menempel pada ujung pinset setelah digosok dari kertas saring.](images/fig3.png){#fig-seedscrapin fig-alt="Tampilan dekat ujung sepasang pinset di atas salindia. Beberapa benih terdapat di salindia, tetapi banyak yang menempel pada ujung pinset." aria-description=""}
+![Benih mungkin menempel pada ujung pinset setelah digosok dari kertas saring.](images/fig3.png){#fig-seedscrapin fig-alt="Tampilan dekat ujung sepasang pinset di atas salindia. Beberapa benih terdapat di salindia, tetapi banyak yang menempel pada ujung pinset." }
 
-![Gunakan satu tetes larutan TZ untuk melepaskan benih yang menempel di ujung pinset ke salindia mikroskop.](images/fig4.png){#fig-dropin fig-alt="Tampilan dekat sepasang pinset di atas salindia. Terdapat beberapa benih di salindia, tetapi masih banyak yang menempel pada ujung pinset. Ujung pipet diarahkan dekat ujung pinset, dengan setetes cairan yang keluar menyentuh benih anggrek yang menempel di ujung pinset." aria-description=""}
+![Gunakan satu tetes larutan TZ untuk melepaskan benih yang menempel di ujung pinset ke salindia mikroskop.](images/fig4.png){#fig-dropin fig-alt="Tampilan dekat sepasang pinset di atas salindia. Terdapat beberapa benih di salindia, tetapi masih banyak yang menempel pada ujung pinset. Ujung pipet diarahkan dekat ujung pinset, dengan setetes cairan yang keluar menyentuh benih anggrek yang menempel di ujung pinset." }
 
-![Sebarkan benih secara merata di dalam tetesan cairan dengan memutar pinset secara perlahan. ](images/fig5.png){#fig-swirlin fig-alt="Tampilan dekat ujung sepasang pinset di atas salindia. Ujung pinset berada di dalam genangan kecil cairan pada salindia, dengan benih anggrek yang tampak di dalam cairan maupun menempel pada pinset. Panah hitam melengkung telah digambar di atas pinset." aria-description=""}
+![Sebarkan benih secara merata di dalam tetesan cairan dengan memutar pinset secara perlahan. ](images/fig5.png){#fig-swirlin fig-alt="Tampilan dekat ujung sepasang pinset di atas salindia. Ujung pinset berada di dalam genangan kecil cairan pada salindia, dengan benih anggrek yang tampak di dalam cairan maupun menempel pada pinset. Panah hitam melengkung telah digambar di atas pinset." }
 
-![Letakkan kaca penutup di atas salindia mikroskop, sehingga mengurangi pembentukan gelembung semaksimal mungkin. ](images/fig6.png){#fig-coverin fig-alt="Tampilan dekat salindia dan ujung jari yang mengenakan sarung tangan. Jari-jari tangan memegang kaca penutup berbentuk persegi, dengan salah satu sisinya menempel pada salindia dan menyentuh cairan." aria-description=""}
+![Letakkan kaca penutup di atas salindia mikroskop, sehingga mengurangi pembentukan gelembung semaksimal mungkin. ](images/fig6.png){#fig-coverin fig-alt="Tampilan dekat salindia dan ujung jari yang mengenakan sarung tangan. Jari-jari tangan memegang kaca penutup berbentuk persegi, dengan salah satu sisinya menempel pada salindia dan menyentuh cairan." }
 
 
 :::
@@ -216,18 +216,18 @@ Beberapa gelembung mungkin terperangkap di antara kaca penutup dan salindia mikr
 :::
 
 ##### Prosedur:
-![Persiapan untuk pencitraan daya hidup anggrek. ](images/fig7.png){#fig-setupin fig-alt="Meja laboratorium berwarna putih dengan sebuah laptop di atasnya. Di samping laptop terdapat kotak cahaya berukuran A4, dengan kamera Dino-Lite yang dipasang di salah satu ujungnya. Kamera Dino-Lite ditopang oleh sebuah dudukan yang diletakkan berdekatan dengan kotak cahaya. Kotak cahaya dan Dino-Lite terhubung ke laptop." aria-description=""}
+![Persiapan untuk pencitraan daya hidup anggrek. ](images/fig7.png){#fig-setupin fig-alt="Meja laboratorium berwarna putih dengan sebuah laptop di atasnya. Di samping laptop terdapat kotak cahaya berukuran A4, dengan kamera Dino-Lite yang dipasang di salah satu ujungnya. Kamera Dino-Lite ditopang oleh sebuah dudukan yang diletakkan berdekatan dengan kotak cahaya. Kotak cahaya dan Dino-Lite terhubung ke laptop." }
 
 
 ::: columns
 <div markdown="1" class="column" style="width: 50%;">
 
-![Dino-Lite diletakkan di atas salindia mikroskop pada alas dengan pencahayaan dari bawah. ](images/fig8.png){#fig-setupin2 fig-alt="Tampilan dekat kotak cahaya dengan pencahayaan belakang yang menampilkan salindia mikroskop di atasnya. Kamera Dino-Lite diletakkan tepat di atas salindia mikroskop dan ditopang oleh dudukan agar tetap stabil." aria-description=""}
+![Dino-Lite diletakkan di atas salindia mikroskop pada alas dengan pencahayaan dari bawah. ](images/fig8.png){#fig-setupin2 fig-alt="Tampilan dekat kotak cahaya dengan pencahayaan belakang yang menampilkan salindia mikroskop di atasnya. Kamera Dino-Lite diletakkan tepat di atas salindia mikroskop dan ditopang oleh dudukan agar tetap stabil." }
 </div>
 
 <div markdown="1" class="column" style="width: 50%;">
 
-![Tampilan dekat yang memperlihatkan jarak antara Dino-Lite dan salindia mikroskop.  ](images/fig9.png){#fig-setupin3 fig-alt="Tampilan dekat salindia mikroskop dan ujung kamera Dino-Lite. Bagian plastik bening di ujung Dino-Lite berjarak hanya satu hingga dua milimeter dari salindia mikroskop." aria-description=""}
+![Tampilan dekat yang memperlihatkan jarak antara Dino-Lite dan salindia mikroskop.  ](images/fig9.png){#fig-setupin3 fig-alt="Tampilan dekat salindia mikroskop dan ujung kamera Dino-Lite. Bagian plastik bening di ujung Dino-Lite berjarak hanya satu hingga dua milimeter dari salindia mikroskop." }
 
 </div>
 
@@ -253,10 +253,10 @@ Beberapa gelembung mungkin terperangkap di antara kaca penutup dan salindia mikr
 
 8. Pastikan nama file memuat semua informasi penting tentang koleksi (nama spesies, nomor koleksi atau nomor aksesi, nomor ulangan jika ada), dan buat salinan cadangan untuk memastikan informasi tersebut tidak hilang.
 
-![Cuplikan layar DinoCapture yang menampilkan tombol lampu LED dan tombol pencahayaan otomatis ](images/fig10.png){#fig-exposurein fig-alt="cuplikan layar perangkat lunak DinoCapture. Gambar tersebut menampilkan latar belakang kelabu gelap dengan campuran benih anggrek yang diwarnai dan belum diwarnai di atasnya. Di sudut kanan atas cuplikan layar terdapat serangkaian lima simbol berbentuk persegi. Simbol pertama bertuliskan ‘AE’, dan simbol kedua bergambar matahari. Kedua simbol tersebut memiliki panah yang mengarah keluar, dengan tulisan Auto exposure and LED off (Pencahayaan otomatis dan LED mati) tertulis di atas cuplikan layar." aria-description=""}
+![Cuplikan layar DinoCapture yang menampilkan tombol lampu LED dan tombol pencahayaan otomatis ](images/fig10.png){#fig-exposurein fig-alt="cuplikan layar perangkat lunak DinoCapture. Gambar tersebut menampilkan latar belakang kelabu gelap dengan campuran benih anggrek yang diwarnai dan belum diwarnai di atasnya. Di sudut kanan atas cuplikan layar terdapat serangkaian lima simbol berbentuk persegi. Simbol pertama bertuliskan ‘AE’, dan simbol kedua bergambar matahari. Kedua simbol tersebut memiliki panah yang mengarah keluar, dengan tulisan Auto exposure and LED off (Pencahayaan otomatis dan LED mati) tertulis di atas cuplikan layar." }
 
 
-![Warna latar belakang gambar yang optimal ditunjukkan pada gambar Tengah. ](images/fig11.png){#fig-backcolourin fig-alt="Tiga cuplikan layar dari gambar yang sama dengan warna latar berbeda. Gambar pertama memiliki latar belakang kelabu gelap dengan kontras rendah antara benih dan latar belakang. Terdapat lingkaran merah dengan tanda silang putih di dalamnya pada bagian bawah cuplikan layar ini. Cuplikan layar tengah memiliki latar belakang kelabu muda dengan kontras tinggi antara benih dan latar belakang. Cuplikan layar ini memiliki lingkaran hijau dengan tanda centang di dalamnya. Gambar terakhir memiliki latar belakang putih cerah kekuningan, dan tepi benih tampak menyatu dengan latar tersebut. Gambar ini memiliki lingkaran merah dengan tanda silang putih di dalamnya." aria-description=""}
+![Warna latar belakang gambar yang optimal ditunjukkan pada gambar Tengah. ](images/fig11.png){#fig-backcolourin fig-alt="Tiga cuplikan layar dari gambar yang sama dengan warna latar berbeda. Gambar pertama memiliki latar belakang kelabu gelap dengan kontras rendah antara benih dan latar belakang. Terdapat lingkaran merah dengan tanda silang putih di dalamnya pada bagian bawah cuplikan layar ini. Cuplikan layar tengah memiliki latar belakang kelabu muda dengan kontras tinggi antara benih dan latar belakang. Cuplikan layar ini memiliki lingkaran hijau dengan tanda centang di dalamnya. Gambar terakhir memiliki latar belakang putih cerah kekuningan, dan tepi benih tampak menyatu dengan latar tersebut. Gambar ini memiliki lingkaran merah dengan tanda silang putih di dalamnya." }
 
 
 ### Referensi

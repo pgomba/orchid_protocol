@@ -49,7 +49,7 @@ EN166
 ![Frasco âmbar de 1L contendo 1% de Tetrazólio](images/amber_bottle.png){#fig-bottle fig-alt="um frasco âmbar com tampa
 azul de rosca e um rótulo na frente. O rótulo indica chemical & concentration, 1% TZ,
 initials PGB, date May 23 (O produto químico e a concentração, 1% TZ, as iniciais PGB e
-a data de maio de 2023). Apresenta também um pictograma de perigo para a saúde." aria-description="" width=30%}
+a data de maio de 2023). Apresenta também um pictograma de perigo para a saúde."  width=30%}
 
 
 ##### Procedimento:

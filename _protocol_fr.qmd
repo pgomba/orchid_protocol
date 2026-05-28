@@ -41,7 +41,7 @@ La version actuelle de ce document vise à présenter un système reproductible 
 :::
 
 
-![Flacon ambré de 1 litre contenant du tétrazolium à 1%](images/amber_bottle.png){#fig-bottlefr fig-alt="Flacon ambré avec un couvercle à vis bleu et une étiquette sur le devant. L'étiquette porte la mention chemical & concentration, 1% TZ, initials PGB, date May 23 (« Produit chimique et concentration, TZ à 1 %, Initiales PGB, Date : 23 mai »). Elle comporte également un pictogramme de danger pour la santé." aria-description="" width=30%}
+![Flacon ambré de 1 litre contenant du tétrazolium à 1%](images/amber_bottle.png){#fig-bottlefr fig-alt="Flacon ambré avec un couvercle à vis bleu et une étiquette sur le devant. L'étiquette porte la mention chemical & concentration, 1% TZ, initials PGB, date May 23 (« Produit chimique et concentration, TZ à 1 %, Initiales PGB, Date : 23 mai »). Elle comporte également un pictogramme de danger pour la santé." width=30%}
 
 
 ##### Procédure:
@@ -253,7 +253,7 @@ Certaines bulles peuvent être piégées entre la lamelle couvre-objet et la lam
 
 8. Veillez à ce que le nom du fichier contienne toutes les informations importantes concernant la collection (nom de l'espèce, numéro de collection ou d'accession, numéro de réplicat (le cas échéant)) et créez une sauvegarde pour vous assurer de ne pas perdre les informations.
 
-![Capture d'écran de DinoCapture mettant en évidence l'interrupteur à voyant lumineux et le bouton d'exposition automatique](images/fig10.png){#fig-exposurefr fig-alt=""}
+![Capture d'écran de DinoCapture mettant en évidence l'interrupteur à voyant lumineux et le bouton d'exposition automatique](images/fig10.png){#fig-exposurefr fig-alt="une capture d'écran du logiciel DinoCapture. Elle montre un arrière-plan gris foncé avec un mélange de semences d'orchidées colorées et non colorées. Au haut à droite de la capture d'écran se trouve une série de cinq symboles carrés. Le premier porte l'inscription « AE » et le second est le symbole d'un soleil. Les deux symboles sont dotés de flèches et le texte “Auto exposure and LED off” (« Exposition automatique et extinction du voyant lumineux ») est écrit sur la capture d'écran."}
 
 
 ![La couleur optimale de l'arrière-plan de l'image est indiquée dans l'image du milieu.](images/fig11.png){#fig-backcolourfr fig-alt="Trois captures d'écran de la même image avec des couleurs différentes. La première présente un arrière-plan gris foncé et le contraste entre les semences et l’arrière-plan est faible. Un cercle rouge avec une croix blanche se trouve en bas de cette capture d'écran. La capture d'écran du milieu présente un arrière-plan gris clair et un contraste élevé entre les semences et l'arrière-plan. Cette capture d'écran comporte un cercle vert avec une coche. L'image finale présente un arrière-plan blanc crème lumineux et les bords des semences se fondent dedans. Cette image comporte un cercle rouge avec une croix blanche."}

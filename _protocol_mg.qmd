@@ -41,7 +41,7 @@ Ny tahadikan’ity antontan-taratasy ity dia natao mba hanolorana rafitra azo av
 :::
 
 
-![Tavoahangy mavo 1L misy Tétrazolium 1%](images/amber_bottle.png){#fig-bottlemg fig-alt="tavoahangy mavo misy sarony manga sy etikety eo anoloana. Ilay etikety dia ahitana ny chemical & concentration, 1% TZ, initial PGB date May 23 (Anaran’ilay vokatra simika sy ny singa mandrafitra azy, TZ 1%, ireo litera PGB, daty May 23). Ahitana kisary maneho ny loza haterany amin’ny fahasalamana ihany koa izany." aria-description="" width=30%}
+![Tavoahangy mavo 1L misy Tétrazolium 1%](images/amber_bottle.png){#fig-bottlemg fig-alt="tavoahangy mavo misy sarony manga sy etikety eo anoloana. Ilay etikety dia ahitana ny chemical & concentration, 1% TZ, initial PGB date May 23 (Anaran’ilay vokatra simika sy ny singa mandrafitra azy, TZ 1%, ireo litera PGB, daty May 23). Ahitana kisary maneho ny loza haterany amin’ny fahasalamana ihany koa izany."  width=30%}
 
 
 ##### Drafitra arahana:
@@ -112,11 +112,11 @@ Ny vokatra simika rehetra izay manova ny lokon'ny fangaro ho mavo kely dia tsy m
 6. 6.	Apetraho ao anaty fitaovana mitahiry hafanana amin’ny maripana 30°C mandritra ny 24 ora raha kely indrindra saingy tsy mihoatra ny 48 ora.
 
 
-![Toromarika amin’ny famalonana ny taratasy araky ny tokony ho izy mba hitandrovana ireo voa tsy ho very rehefa miroboka ao anaty TZ.](images/folding_instructions.jpg){#fig-foldmg fig-alt="Dingana 8 mifanaraka ary famaritana ireo kisary nampiasaina. Ny dingana voalohany dia ny famalonana ilay taratasy fanivanana boribory eo amin’ny atsasany. Dingana faha-2, eo amin’ilay sisiny mifanitsy aminao, avalony midina ny ampahefany amin’ilay taratasy fanivanana. Dingana faha-3, tokony hahazo mahitsizoro ety ianao izao miaraka amin’ny sisiny roa somary mivonkona. Avalony ho eo afovoany ny sisiny mivokona tsirairay amin’ny alalan’ny fampiasana ny sisin’ilay dian'ny famalonana ambony ho tari-dalana amin’ny famalonana. Dingana faha-4, sokafy ilay taratasy fanivanana. Dingana faha-5, apetraho eo afovoan’ilay taratasy fanivanana ireo voan’ny orkide. Dingana faha-6, Avereno atao ireo dingana 1 ka hatramin’ny 3. Dingana faha-7, amin’ny alalan’ilay sisiny lava navalona mifanitsy aminao, dia avereno avalona ho eo amin’ny sisiny havanana ny sisiny havia amin’ilay taratasy fanivanana. Dingana faha-8, tereo amin’ny traombaonina mifono plastika ilay fonosana." aria-description=""}
+![Toromarika amin’ny famalonana ny taratasy araky ny tokony ho izy mba hitandrovana ireo voa tsy ho very rehefa miroboka ao anaty TZ.](images/folding_instructions.jpg){#fig-foldmg fig-alt="Dingana 8 mifanaraka ary famaritana ireo kisary nampiasaina. Ny dingana voalohany dia ny famalonana ilay taratasy fanivanana boribory eo amin’ny atsasany. Dingana faha-2, eo amin’ilay sisiny mifanitsy aminao, avalony midina ny ampahefany amin’ilay taratasy fanivanana. Dingana faha-3, tokony hahazo mahitsizoro ety ianao izao miaraka amin’ny sisiny roa somary mivonkona. Avalony ho eo afovoany ny sisiny mivokona tsirairay amin’ny alalan’ny fampiasana ny sisin’ilay dian'ny famalonana ambony ho tari-dalana amin’ny famalonana. Dingana faha-4, sokafy ilay taratasy fanivanana. Dingana faha-5, apetraho eo afovoan’ilay taratasy fanivanana ireo voan’ny orkide. Dingana faha-6, Avereno atao ireo dingana 1 ka hatramin’ny 3. Dingana faha-7, amin’ny alalan’ilay sisiny lava navalona mifanitsy aminao, dia avereno avalona ho eo amin’ny sisiny havanana ny sisiny havia amin’ilay taratasy fanivanana. Dingana faha-8, tereo amin’ny traombaonina mifono plastika ilay fonosana." }
 
 
 
-![Ny fandraofana dia misy voa ampy ho tsapaina. Ity fitsapana ity dia nampiasana fandraofana 100 mm.](images/scoop2.jpg){#fig-scoopmg fig-alt="Fandraofana Chattaway, mitsilany, ary jery akaiky ny lohan’ny fandraofana Chattaway miaraka amin’ny voa santionany manarona ny lohany miolana." aria-description=""}
+![Ny fandraofana dia misy voa ampy ho tsapaina. Ity fitsapana ity dia nampiasana fandraofana 100 mm.](images/scoop2.jpg){#fig-scoopmg fig-alt="Fandraofana Chattaway, mitsilany, ary jery akaiky ny lohan’ny fandraofana Chattaway miaraka amin’ny voa santionany manarona ny lohany miolana." }
 
 
 ### Fanomanana ny takelaky ny mikraoskaopy ho amin’ny fangalana sary
@@ -167,13 +167,13 @@ Ny vokatra simika rehetra izay manova ny lokon'ny fangaro ho mavo kely dia tsy m
 
 ::: {layout-nrow=2}
 
-![Mety hiraikitra amin’ilay fiavotra ireo voa rehefa avy notsoahina hiala ny taratasy fanivanana.](images/fig3.png){#fig-seedscrapmg fig-alt="jery akaiky ny lohan’ny fiavotra eo amin’ny takelaka fitaratra. Misy voa vitsy eo amin’ilay takelaka, saingy maro no miraikitra eo amin’ny lohan’ilay fiavotra" aria-description=""}
+![Mety hiraikitra amin’ilay fiavotra ireo voa rehefa avy notsoahina hiala ny taratasy fanivanana.](images/fig3.png){#fig-seedscrapmg fig-alt="jery akaiky ny lohan’ny fiavotra eo amin’ny takelaka fitaratra. Misy voa vitsy eo amin’ilay takelaka, saingy maro no miraikitra eo amin’ny lohan’ilay fiavotra" }
 
-![Mampiasa TZ indray mitete hamindrana ireo voa miraikitra amin’ny fiavotra ho eo amin’ny takelaka fitaratry ny mikraskaopy. ](images/fig4.png){#fig-dropmg fig-alt="jery akaiky ilay fiavotra eo amin’ny takelaka fitaratra. Misy voa maromaro eo amin’ilay takelaka fitaratra, saingy mbola maro no miraikitra eo amin’ny lohan’ilay fiavotra. Atao akaikin’ny lohan’ilay fiavotra ny lohan’ny pipety, avela hirotsaka ny ranon-javatra indray mitete avy amin’izany ary kasiho ireo voan’ny orkide eo amin’ny lohan’ny fiavotra." aria-description=""}
+![Mampiasa TZ indray mitete hamindrana ireo voa miraikitra amin’ny fiavotra ho eo amin’ny takelaka fitaratry ny mikraskaopy. ](images/fig4.png){#fig-dropmg fig-alt="jery akaiky ilay fiavotra eo amin’ny takelaka fitaratra. Misy voa maromaro eo amin’ilay takelaka fitaratra, saingy mbola maro no miraikitra eo amin’ny lohan’ilay fiavotra. Atao akaikin’ny lohan’ilay fiavotra ny lohan’ny pipety, avela hirotsaka ny ranon-javatra indray mitete avy amin’izany ary kasiho ireo voan’ny orkide eo amin’ny lohan’ny fiavotra." }
 
-![Haparitao tsara ao anatin’ilay teten-drano ireo voa amin’ny alalan’ny fanetsiketsehana moramora ilay fiavotra. ](images/fig5.png){#fig-swirlmg fig-alt="jery akaiky ny lohan’ny fiavotra eo amin’ny takelaka fitaratra. Mipetraka eo amin’ny ranon-javatra eo amin’ny takelaka ireo lohan’ilay fiavotra, ary ahitana voa orkide ao anatin’ilay ranon-javatra sy eo amin’ilay fiavotra. Misy tsipika mainty miolana misoritra eo ambonin’ilay fiavotra." aria-description=""}
+![Haparitao tsara ao anatin’ilay teten-drano ireo voa amin’ny alalan’ny fanetsiketsehana moramora ilay fiavotra. ](images/fig5.png){#fig-swirlmg fig-alt="jery akaiky ny lohan’ny fiavotra eo amin’ny takelaka fitaratra. Mipetraka eo amin’ny ranon-javatra eo amin’ny takelaka ireo lohan’ilay fiavotra, ary ahitana voa orkide ao anatin’ilay ranon-javatra sy eo amin’ilay fiavotra. Misy tsipika mainty miolana misoritra eo ambonin’ilay fiavotra." }
 
-![Asio rakony eo ambonin’ilay takelaky ny mikraoskaopy, ary ataovy izay tsy hiforonan’ny tapoaka arak’izay azo atao. ](images/fig6.png){#fig-covermg fig-alt="jery akaiky ny takelaka fitaratra sy ny loha-ratsana misy fonon-tanana. Ireo ratsan-tanana dia mihazona rakony efajoro, izay mikasika amin’ilay ranon-javatra ny sisiny iray." aria-description=""}
+![Asio rakony eo ambonin’ilay takelaky ny mikraoskaopy, ary ataovy izay tsy hiforonan’ny tapoaka arak’izay azo atao. ](images/fig6.png){#fig-covermg fig-alt="jery akaiky ny takelaka fitaratra sy ny loha-ratsana misy fonon-tanana. Ireo ratsan-tanana dia mihazona rakony efajoro, izay mikasika amin’ilay ranon-javatra ny sisiny iray." }
 
 
 :::
@@ -216,7 +216,7 @@ Ireo tapoaka sasany dia mety hiangona ao anelanelan’ilay rakony sy ilay takela
 :::
 
 ##### Drafitra arahana:
-![ Fikirakirana ny fakana an-tsary ny fahaveloman’ny orkide. ](images/fig7.png){#fig-setupmg fig-alt="latabatra fotsy fiasa amin’ny labôratoara, misy solosaina eo amboniny. Eo akaikin’ilay solosaina dia ahitana boaty manazava amin’ny habeany A4, izay mirakitra fakan-tsarin’ny Dino-Lite amin’ny sisiny iray. Ilay fakan-tsarin’ny Dino-Lite dia hazonin’ny andry eo akaikin’ilay boaty manazava. Mifandray amin’ilay solosaina ilay boaty manazava sy Dino-Lite." aria-description=""}
+![ Fikirakirana ny fakana an-tsary ny fahaveloman’ny orkide. ](images/fig7.png){#fig-setupmg fig-alt="latabatra fotsy fiasa amin’ny labôratoara, misy solosaina eo amboniny. Eo akaikin’ilay solosaina dia ahitana boaty manazava amin’ny habeany A4, izay mirakitra fakan-tsarin’ny Dino-Lite amin’ny sisiny iray. Ilay fakan-tsarin’ny Dino-Lite dia hazonin’ny andry eo akaikin’ilay boaty manazava. Mifandray amin’ilay solosaina ilay boaty manazava sy Dino-Lite." }
 
 
 ::: columns
@@ -227,7 +227,7 @@ Ireo tapoaka sasany dia mety hiangona ao anelanelan’ilay rakony sy ilay takela
 
 <div markdown="1" class="column" style="width: 50%;">
 
-![Jery akaiky maneho ny elanelana misy eo amin’ilay Dino-Lite sy takelaky ny mikraoskaopy. ](images/fig9.png){#fig-setupmg3 fig-alt="Jery akaiky ny takelaky ny mikraoskaopy sy ny sisin’ny fakan-tsarin’ny Dino-Lite. Ny plastika mazava eo amin’ny sisin’ilay Dino-Lite dia mielanelana ray ra roa milimetatra fotsiny an’ilay takelaky ny mikraoskaopy." aria-description=""}
+![Jery akaiky maneho ny elanelana misy eo amin’ilay Dino-Lite sy takelaky ny mikraoskaopy. ](images/fig9.png){#fig-setupmg3 fig-alt="Jery akaiky ny takelaky ny mikraoskaopy sy ny sisin’ny fakan-tsarin’ny Dino-Lite. Ny plastika mazava eo amin’ny sisin’ilay Dino-Lite dia mielanelana ray ra roa milimetatra fotsiny an’ilay takelaky ny mikraoskaopy." }
 
 </div>
 
@@ -252,10 +252,10 @@ Ireo tapoaka sasany dia mety hiangona ao anelanelan’ilay rakony sy ilay takela
 7. Mba hahafahana mitahiry ny sary dia ataovy click droit eo amin'ny sary kely eo amin’ny tontonana havia ary kitiho ny save as (enregistrer sous). Esory avokoa ireo marika amin’ireo efajoro kely eo amin’ny imprint (Impression) ary safidio ny habe sy ny hatsaran’ny sary avo indrindra. Tehirizo amin’ny endriny .jpeg ny sary.
 
 8. Aoka ny anaran’ilay raki-tahiry mba hahitana ireo famahalalana rehetra momba ilay angona (anarana, angona na laharan’ny angona, laharana tahadika (raha misy) ary mamoròna dika mitovy mba hitandrovana ireo fampahalalana tsy ho very.
-jery akaiky ny rindrambaiko DinoCapture. Maneho tokon-tsary miloko volon-davenona izany miaraka amin’ny fangarona voana orkide misy pentina sy tsy misy pentina. Eo amin’ny sisiny havanana ambony amin’ilay sary dia ahitana marika efajoro dimy milahatra. Ny voalohany dia ahitana ny soratra ’AE’ ary ny faharoa kosa dia sary masoandro. Ireo marika roa dia samy ahitana tsipika sy teny Auto exposure and LED off (Hazavana mandeha ho azy sy jiro LED, tsy mandeha) misoratra eo amin’ny sary." aria-description=""}
+jery akaiky ny rindrambaiko DinoCapture. Maneho tokon-tsary miloko volon-davenona izany miaraka amin’ny fangarona voana orkide misy pentina sy tsy misy pentina. Eo amin’ny sisiny havanana ambony amin’ilay sary dia ahitana marika efajoro dimy milahatra. Ny voalohany dia ahitana ny soratra ’AE’ ary ny faharoa kosa dia sary masoandro. Ireo marika roa dia samy ahitana tsipika sy teny Auto exposure and LED off (Hazavana mandeha ho azy sy jiro LED, tsy mandeha) misoratra eo amin’ny sary." }
 
 
-![Ny sary eo afovoany no maneho ny lokon’ny tokon-tsary mety indrindra.](images/fig11.png){#fig-backcolourmg fig-alt="sary iray, karazany telo araka ny loko samy hafa. Ny voalohany dia manana tokon-tsary miloko volon-davenona matroka ary ny fahasamihafana misy eo amin’ny voa sy ny tokon-tsary dia kely. Misy boribory mena misy X fotsy eo ambamin'ilay sary. Ilay sary manaraka dia manana tokon-tsary miloko volon-davenona mazava ary ny fahasamihafana misy eo amin’ny voa sy ny tokon-tsary dia mazava tsara. Ity sary ity dia ahitana boribory maitso misy marika 'mety'. Ilay sary farany dia manana tokon-tsary fotsy madio ary mifangaro amin'izany ary tsy tazana ny sisin'ny voa. Ity sary ity dia ahitana boribory mena misy X fotsy eo aminy." aria-description=""}
+![Ny sary eo afovoany no maneho ny lokon’ny tokon-tsary mety indrindra.](images/fig11.png){#fig-backcolourmg fig-alt="sary iray, karazany telo araka ny loko samy hafa. Ny voalohany dia manana tokon-tsary miloko volon-davenona matroka ary ny fahasamihafana misy eo amin’ny voa sy ny tokon-tsary dia kely. Misy boribory mena misy X fotsy eo ambamin'ilay sary. Ilay sary manaraka dia manana tokon-tsary miloko volon-davenona mazava ary ny fahasamihafana misy eo amin’ny voa sy ny tokon-tsary dia mazava tsara. Ity sary ity dia ahitana boribory maitso misy marika 'mety'. Ilay sary farany dia manana tokon-tsary fotsy madio ary mifangaro amin'izany ary tsy tazana ny sisin'ny voa. Ity sary ity dia ahitana boribory mena misy X fotsy eo aminy." }
 
 
 ### Fanovozan-kevitra

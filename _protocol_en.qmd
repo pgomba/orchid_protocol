@@ -41,7 +41,7 @@ The current version of this document aims to outline a replicable system to phot
 :::
 
 
-![1L amber bottle containing 1% Tetrazolium](images/amber_bottle.png){#fig-bottle fig-alt="An amber bottle with a blue screw lid and a label on the front. The label reads chemical & concentration, 1% TZ, initials PGB, date May 23. It also has a health hazard pictogram on it." aria-description="" width=30%}
+![1L amber bottle containing 1% Tetrazolium](images/amber_bottle.png){#fig-bottle fig-alt="An amber bottle with a blue screw lid and a label on the front. The label reads chemical & concentration, 1% TZ, initials PGB, date May 23. It also has a health hazard pictogram on it."  width=30%}
 
 
 ##### Procedure:
