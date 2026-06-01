@@ -133,7 +133,7 @@ até 48 horas.
 
 
 ![Instruções para dobrar corretamente o papel de forma a garantir que as
-sementes não se perdem enquanto estão submersas na solução de TZ](images/folding_instructions.jpg){#fig-foldpt fig-alt="Uma
+sementes não se perdem enquanto estão submersas na solução de TZ](images/Folding_portuguese.jpg){#fig-foldpt fig-alt="Uma
 sequência de 8 passos e uma legenda com os símbolos utilizados. O Passo 1 consiste
 em dobrar o círculo de papel de filtro ao meio. No Passo 2, com a borda dobrada
 voltada para si, dobrar o quarto superior do papel de filtro para baixo. No Passo 3, deve

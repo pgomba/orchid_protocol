@@ -112,7 +112,7 @@ Tout réactif qui prend une couleur rose doit être mis au rebut
 6. Placez dans un incubateur à 30 °C pendant au moins 24 heures et optimalement jusqu'à 48 heures.
 
 
-![Consignes de pliage correct du papier afin de s'assurer de ne pas perdre les semences lorsqu'on les immerge dans le TZ.](images/folding_instructions.jpg){#fig-foldfr fig-alt="une série de 8 étapes avec une légende des symboles utilisés. L'étape 1 consiste à plier le cercle de papier-filtre en deux. Étape 2 : le bord plié face à vous, pliez le quart supérieur du papier-filtre vers le bas. Étape 3 : vous devriez maintenant obtenir un rectangle étroit avec deux bords courts incurvés. Pliez chaque bord incurvé vers le centre, en utilisant le bord du pli supérieur comme guide pour les lignes de pliage. Étape 4 : dépliez le papier-filtre. Étape 5 : placez vos semences d'orchidée au centre de votre morceau de papier-filtre. Étape 6 : répétez les étapes 1 à 3. Étape 7 : le bord long plié face à vous, pliez le bord gauche du sachet de papier-filtre pour qu'il rejoigne le bord droit. Étape 8 : scellez le sachet à l'aide d'un trombone. "}
+![Consignes de pliage correct du papier afin de s'assurer de ne pas perdre les semences lorsqu'on les immerge dans le TZ.](images/Folding_french.jpg){#fig-foldfr fig-alt="une série de 8 étapes avec une légende des symboles utilisés. L'étape 1 consiste à plier le cercle de papier-filtre en deux. Étape 2 : le bord plié face à vous, pliez le quart supérieur du papier-filtre vers le bas. Étape 3 : vous devriez maintenant obtenir un rectangle étroit avec deux bords courts incurvés. Pliez chaque bord incurvé vers le centre, en utilisant le bord du pli supérieur comme guide pour les lignes de pliage. Étape 4 : dépliez le papier-filtre. Étape 5 : placez vos semences d'orchidée au centre de votre morceau de papier-filtre. Étape 6 : répétez les étapes 1 à 3. Étape 7 : le bord long plié face à vous, pliez le bord gauche du sachet de papier-filtre pour qu'il rejoigne le bord droit. Étape 8 : scellez le sachet à l'aide d'un trombone. "}
 
 
 
@@ -234,7 +234,7 @@ Certaines bulles peuvent être piégées entre la lamelle couvre-objet et la lam
 
 :::
 
-1. Utilisez le statif pour maintenir le Dino-Lite en position verticale au-dessus du caisson lumineux, en veillant à ce qu'il puisse être abaissé jusqu'à presque toucher la surface du caisson lumineux et en laissant suffisamment d'espace pour qu'une lame de microscope puisse être placée en dessous avec quelques millimètres de réserve (voir [@fig-setupfr](#fig-setupfr), [@fig-setupfr2](#fig-setupfr2) and [@fig-setupfr3](#fig-setupfr3)).
+1. Utilisez le statif pour maintenir le Dino-Lite en position verticale au-dessus du caisson lumineux, en veillant à ce qu'il puisse être abaissé jusqu'à presque toucher la surface du caisson lumineux et en laissant suffisamment d'espace pour qu'une lame de microscope puisse être placée en dessous avec quelques millimètres de réserve (voir [@fig-setupfr](#fig-setupfr), [@fig-setupfr2](#fig-setupfr2) et [@fig-setupfr3](#fig-setupfr3)).
 
 2. Allumez l'ordinateur et connectez le Dino-Lite et la base rétroéclairée à l'ordinateur via les ports USB.
 
