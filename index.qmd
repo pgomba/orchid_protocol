@@ -48,9 +48,12 @@ format:
 
 # اَلْعَرَبِيَّةُ (AR)
 
+::: {dir="rtl" lang="ar"}
+
+
 {{< include Arabic_test.qmd >}}
 
-
+:::
 
 :::
 
