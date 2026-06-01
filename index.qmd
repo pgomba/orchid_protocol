@@ -37,9 +37,14 @@ format:
 
 {{< include _protocol_mg.qmd >}}
 
-<!-- # 🇪🇸 Español (ES) -->
+# 官话 (CMN)
 
-<!-- {{< include _protocol_es.qmd >}} -->
+{{< include _protocol_cmn.qmd >}}
+
+# 日本語 (JA)
+
+{{< include _protocol_ja.qmd >}}
+
 
 
 :::
