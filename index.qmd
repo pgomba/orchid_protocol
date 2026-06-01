@@ -46,6 +46,11 @@ format:
 {{< include _protocol_ja.qmd >}}
 
 
+# اَلْعَرَبِيَّةُ (AR)
+
+{{< include Arabic_test.qmd >}}
+
+
 
 :::
 

@@ -1,0 +1,273 @@
+<span style="direction:rtl;">
+
+### الاختبار باستخدام كلوريد رباعي الزوليوم وبروتوكول التصوير
+
+تهدف النسخة الحالية من هذه الوثيقة إلى عرض نظام يمكن تطبيقه تكراريًا لتصوير بذور سحلبية مصبوغة، واستخدام صور البذور في إنشاء قاعدة بيانات صورية لتدريب نماذج ذكاء اصطناعي. مع ذلك، يتيح هذا النظام فرصة لك لتحديث بيانات سجلات صلاحية البذور باستخدام بروتوكول التقييم الخاص بك.
+
+### تحضير محلول كلوريد رباعي التترازوليوم (TZ) بتركيز 1%  {#sec-preparationar}
+
+::: {.callout-tip}
+#### المتطلبات:
+
+::: {.grid}
+
+::: {.g-col-6}
+
+* [SDS](https://www.fishersci.co.uk/chemicalProductData_uk/wercs?itemCode=10598250&lang=FR) |7778-77-0: CAS |(KH~2~PO~4~)أورثوفوسفات ثنائي هيدروجين البوتاسيوم 
+
+</span>
+
+* Hydrogénophosphate de sodium dihydraté (Na~2~HPO~4~) | [SDS](https://www.fishersci.no/store/msds?partNumber=10316440&countryCode=NO&language=fr) | CAS: 10028-24-7
+
+* Chlorure de 2,3,5-triphényl-2H-tétrazolium | [SDS](https://www.fishersci.be/chemicalProductData_uk/wercs?itemCode=12615296&lang=FR)
+
+* Balance de précision
+
+* Hotte aspirante
+:::
+
+::: {.g-col-6}
+
+* Gants conformes à la norme EN374 et lunettes de protection conformes à la norme EN166
+
+* Flacon ambré de 1 litre ou flacon en verre transparent de 1 litre et feuille d'aluminium
+
+* Eau distillée
+
+* Agitateur magnétique
+
+* pH-mètre 
+
+:::
+
+:::
+
+:::
+
+
+![Flacon ambré de 1 litre contenant du tétrazolium à 1%](images/amber_bottle.png){#fig-bottlefr fig-alt="Flacon ambré avec un couvercle à vis bleu et une étiquette sur le devant. L'étiquette porte la mention chemical & concentration, 1% TZ, initials PGB, date May 23 (« Produit chimique et concentration, TZ à 1 %, Initiales PGB, Date : 23 mai »). Elle comporte également un pictogramme de danger pour la santé." aria-description="" width=30%}
+
+
+##### Procédure:
+
+1. Dissolvez 3,63 g de dihydrogénophosphate de potassium (KH~2~PO~4~) dans 400 ml d'eau distillée dans un bécher en verre.
+
+2. Dissolvez 7,13 g d’hydrogénophosphate de sodium dihydraté (Na~2~HPO~4~) dans 600 ml d'eau distillée dans un autre bécher en verre.
+
+3. Lorsque ces stocks sont complètement dissous, mélangez les deux solutions dans un récipient en verre de 1 L et ajouter 10 g de chlorure de 2,3,5-triphényl-2H-tétrazolium. Agitez jusqu'à ce que toute la poudre soit dissoute et vérifiez que le pH de la solution est compris entre 6 et 8.
+
+4. Inscrivez sur le flacon vos initiales, le contenu, la date de création et le symbole de danger chimique approprié (ou en suivant les protocoles spécifiques de votre laboratoire), puis stockez-le dans l'obscurité à 4 °C pendant une durée maximale de 3 mois. Si vous avez utilisé un flacon en verre transparent plutôt qu'un flacon en verre ambré, enveloppez le flacon dans une feuille d'aluminium avant de le conserver.
+
+::: {.callout-warning}
+### Note
+Tout réactif qui prend une couleur rose doit être mis au rebut
+:::
+
+### Coloration des orchidées
+
+::: {.callout-tip}
+#### Matériel requis :
+
+::: {.grid}
+
+::: {.g-col-6}
+
+* Papiers-filtres de 5 cm de diamètre
+
+* Feuille d'aluminium
+
+* Trombone recouvert de plastique
+
+* Crayon
+
+* Solution de TZ à 1 % (voir [Section précédente](#sec-preparationfr))
+
+:::
+
+::: {.g-col-6}
+
+* Flacon Schott d'une capacité de 10 à 15 ml
+
+* Gants conformes à la norme EN374
+
+* Eau distillée
+
+* Lunettes de sécurité (EN166)
+
+* Incubateur à 30 °C
+
+:::
+
+:::
+
+:::
+
+##### Procédure :
+1. Pliez un morceau de papier-filtre pour former un sachet carré en suivant le schéma de la [@fig-foldfr](#fig-foldfr) (étapes 1 to 3)
+
+2. Notez sur l'extérieur du sachet à l'aide d'un crayon le numéro d'accession ou de collection de la semence (et le numéro de réplicat, le cas échéant).
+
+3. Dépliez le sachet et placez au centre de celui-ci moins de 300 semences d'orchidées provenant d'une seule collection ([@fig-foldfr](#fig-foldfr), étape 4). Le nombre correct de semences peut être déterminé en utilisant les données relatives au poids des semences et une balance de précision lorsqu'elle est disponible, ou être estimé en ramassant les semences à l'aide d'une spatule, comme illustré à la [@fig-scoopfr](#fig-scoopfr).
+
+4. Repliez le sachet en carré et utilisez un trombone recouvert de plastique pour fermer le sachet. ([@fig-foldfr](#fig-foldfr) étapes 5-7)
+
+5. Immergez le sachet dans une solution de TZ à 1 % dans un flacon Schott enveloppé d'une double couche de feuille d'aluminium ([@fig-foldfr](#fig-foldfr), étape 8), en veillant à ce que le sachet soit entièrement immergé.
+
+6. Placez dans un incubateur à 30 °C pendant au moins 24 heures et optimalement jusqu'à 48 heures.
+
+
+![Consignes de pliage correct du papier afin de s'assurer de ne pas perdre les semences lorsqu'on les immerge dans le TZ.](images/Folding_arabic.jpg){#fig-foldfr fig-alt="une série de 8 étapes avec une légende des symboles utilisés. L'étape 1 consiste à plier le cercle de papier-filtre en deux. Étape 2 : le bord plié face à vous, pliez le quart supérieur du papier-filtre vers le bas. Étape 3 : vous devriez maintenant obtenir un rectangle étroit avec deux bords courts incurvés. Pliez chaque bord incurvé vers le centre, en utilisant le bord du pli supérieur comme guide pour les lignes de pliage. Étape 4 : dépliez le papier-filtre. Étape 5 : placez vos semences d'orchidée au centre de votre morceau de papier-filtre. Étape 6 : répétez les étapes 1 à 3. Étape 7 : le bord long plié face à vous, pliez le bord gauche du sachet de papier-filtre pour qu'il rejoigne le bord droit. Étape 8 : scellez le sachet à l'aide d'un trombone. "}
+
+
+
+![Une spatule contenant un volume adéquat de semences pour le test. Cet exemple utilise une spatule de 100 mm de long.](images/scoop2.jpg){#fig-scoopfr fig-alt="Une spatule Chattaway, couchée horizontalement, et un gros plan de l'extrémité d'une spatule Chattaway avec un échantillon de semences recouvrant la pointe angulaire."}
+
+
+### Préparation des lames de microscope pour l'imagerie
+
+::: {.callout-tip}
+#### Matériel requis :
+
+::: {.grid}
+
+::: {.g-col-6}
+
+* Pince à épiler fine
+
+* Solution de TZ à 1 %
+
+* Lame de microscope en verre (dépoli)
+
+* Lamelle couvre-objet
+
+
+:::
+
+::: {.g-col-6}
+
+* Pipette (1 ml)
+
+* Gants conformes à la norme EN374
+
+* Lunettes de sécurité
+
+
+:::
+
+:::
+
+:::
+
+##### Procédure :
+
+1. Extrayez un sachet de la solution de TZ et retirez délicatement le trombone sans déchirer le papier. Dépliez le papier-filtre sur une surface plane.
+
+2. À l'aide d'une pince à épiler à bout plat et fine, grattez délicatement les semences du papier-filtre sur une lame de microscope. Bien que certaines semences peuvent se déposer sur la lame de microscope, il est probable que la plupart des semences restent attachées aux pointes de la pince à épiler en raison de l'électricité statique ([@fig-seedscrapfr](#fig-seedscrapfr)). Il est possible de les déposer en versant avec précaution une goutte de TZ à 1 % provenant d'une pipette de transfert standard de 1 ml sur la pointe de la pince à épiler au-dessus de la lame de microscope ([@fig-dropfr](#fig-dropfr)). Le nombre optimal de gouttes de TZ à 1 % qu'une lame de microscope peut contenir se situe entre 2,5 et 3 (2 gouttes si elle est carrée).
+
+3. Faites tourner la pince à épiler dans la solution de TZ sur la surface de la lame de microscope pour faire en sorte que toutes les semences se retrouvent sur la lame et essayez de séparer les agglutinations de semences qui pourraient s'être formées ([@fig-swirlfr](#fig-swirlfr)).
+
+4. Enfin, positionnez soigneusement la lamelle couvre-objet en évitant que les semences et le liquide ne tombent de la lame ([@fig-coverfr](#fig-coverfr), justifiant la limite de 3 gouttes de TZ à 1 %) tout en minimisant le nombre de bulles d'air présentes. Pour ce faire, essayez de presser le milieu de lamelle couvre-objet sur le liquide au lieu de commencer à la positionner à partir des bords.
+
+
+::: {layout-nrow=2}
+
+![Les semences peuvent coller à l'extrémité de la pince à épiler après avoir été grattées sur le papier-filtre. ](images/fig3.png){#fig-seedscrapfr fig-alt="Un gros plan de l'extrémité d'une pince à épiler sur une lame de verre. Il y a quelques semences sur la lame, mais beaucoup sont collées aux extrémités de la pince à épiler."}
+
+![Utilisez une goutte de TZ pour déposer les semences se trouvant sur les pointes de la pince à épiler sur la lame de microscope. ](images/fig4.png){#fig-dropfr fig-alt="Un gros plan d'une pince à épiler sur une lame de verre. Il y a plusieurs semences sur la lame de verre, mais beaucoup sont collées aux pointes de la pince à épiler. Un embout de pipette est tenu près des pointes de la pince à épiler, une goutte de liquide en sort et touche les semences d'orchidée sur la pointe de la pince à épiler."}
+
+![Répartissez uniformément les semences dans la goutte d'eau en faisant tourner doucement la pince à épiler. ](images/fig5.png){#fig-swirlfr fig-alt="Un gros plan de l'extrémité d'une pince à épiler sur une lame de verre. Les pointes de la pince à épiler se trouvent dans une petite flaque de liquide sur la lame, et des semences d'orchidées dans le liquide et sur la pince à épiler. Une flèche noire enroulée est dessinée au-dessus de la pince à épiler."}
+
+![Placez une lamelle couvre-objet sur la lame de microscope en minimisant autant que possible la formation de bulles. ](images/fig6.png){#fig-coverfr fig-alt="Un gros plan d'une lame de verre et de l'extrémité de doigts gantés. Les doigts tiennent une lamelle couvre-objet carrée dont un bord se trouve sur la lame de verre en contact avec le liquide."}
+
+
+:::
+
+
+::: {.callout-note collapse="true"}
+#### Trop de bulles ? Développez pour accéder à quelques conseils et astuces
+
+Certaines bulles peuvent être piégées entre la lamelle couvre-objet et la lame de microscope, ce qui peut affecter l'analyse automatisée de la viabilité. Pour minimiser les bulles, placez la pipette de 1 ml près de l'espace entre la lamelle couvre-objet et la lame, et libérez lentement un peu de liquide pour permettre de déloger les bulles. Il se peut qu'une partie de la solution de TZ déborde sur la lame, mais vous pouvez absorber l'excès de liquide avec de l’essuie-tout.
+:::
+
+### Configuration de l'imagerie et capture des images
+
+::: {.callout-tip}
+#### Matériel requis :
+
+::: {.grid}
+
+::: {.g-col-6}
+
+* Microscope Dino-Lite modèle AM4113T
+
+* Statif de microscope Dino-Lite, par exemple RK-05
+
+* Surface rétroéclairée USB (caisson lumineux) avec luminosité réglable
+
+:::
+
+::: {.g-col-6}
+
+* Ordinateur portable / de bureau avec au moins 2 ports USB
+
+* Logiciel DinoCapture version 2 ou 3 installé
+
+
+:::
+
+:::
+
+:::
+
+##### Procédure :
+![Configuration pour l'imagerie de la viabilité des orchidées. ](images/fig7.png){#fig-setupfr fig-alt="Une paillasse de laboratoire blanche sur laquelle est posé un ordinateur portable. À côté de l'ordinateur portable se trouve un caisson lumineux de taille A4, dont l'une des extrémités est équipée d'une caméra Dino-Lite. La caméra Dino-Lite est maintenue par un statif placé à côté du caisson lumineux. Le caisson lumineux et la Dino-Lite sont connectés à l'ordinateur portable."}
+
+
+::: columns
+<div markdown="1" class="column" style="width: 50%;">
+
+![Dino-Lite positionné au-dessus d'une lame de microscope sur une base rétroéclairée. ](images/fig8.png){#fig-setupfr2 fig-alt="Un gros plan d'un caisson lumineux rétroéclairé sur lequel est posée une lame de microscope. La caméra Dino-Lite est positionnée directement au-dessus de la lame de microscope, maintenue en place par un statif."}
+</div>
+
+<div markdown="1" class="column" style="width: 50%;">
+
+![Gros plan montrant la séparation entre le Dino-Lite et la lame de microscope. ](images/fig9.png){#fig-setupfr3 fig-alt="Un gros plan d'une lame de microscope et de l'extrémité de la caméra Dino-Lite. La partie en plastique transparent à l'extrémité du Dino-Lite n'est qu'à un ou deux millimètres de la lame de microscope. "}
+
+</div>
+
+
+:::
+
+1. Utilisez le statif pour maintenir le Dino-Lite en position verticale au-dessus du caisson lumineux, en veillant à ce qu'il puisse être abaissé jusqu'à presque toucher la surface du caisson lumineux et en laissant suffisamment d'espace pour qu'une lame de microscope puisse être placée en dessous avec quelques millimètres de réserve (voir [@fig-setupfr](#fig-setupfr), [@fig-setupfr2](#fig-setupfr2) and [@fig-setupfr3](#fig-setupfr3)).
+
+2. Allumez l'ordinateur et connectez le Dino-Lite et la base rétroéclairée à l'ordinateur via les ports USB.
+
+3. Allumez le caisson lumineux en suivant les instructions du manuel d'utilisation spécifique à la marque et au modèle.
+
+4. Ouvrez le logiciel DinoCapture (version 2 ou 3) et : 
+* Éteignez les voyants lumineux du Dino-Lite 
+* Désactivez la fonction d'exposition automatique ([@fig-exposurefr](#fig-exposurefr)).
+* Sélectionnez une vitesse d'obturation entre 1/15 et 1/60 - Jouez avec ces deux options de vitesse d'obturation afin que le caisson lumineux s'éclaircisse et pour obtenir un fond blanc homogène sans surexposer les bords des semences ([Fig. 12](#fig-backcolourfr)).
+
+5. Déplacez la lame du microscope sous l'objectif pour maximiser le nombre de semences mises au point, en ajustant la luminosité et la mise au point si nécessaire.
+
+6. Prenez une photo en appuyant sur l'icône de la caméra dans la fenêtre de visualisation en direct du logiciel ([@fig-exposurefr](#fig-exposurefr))
+
+7. Pour enregistrer l'image, cliquez-droit avec la souris sur la vignette de l'image dans le panneau de gauche et sur l’option save as (« Enregistrer sous »). Enlevez toutes les coches de la section Imprint (« Impression ») et sélectionnez la taille maximale de l'image et le nombre de ppp. Enregistrez l'image au format .jpeg.
+
+8. Veillez à ce que le nom du fichier contienne toutes les informations importantes concernant la collection (nom de l'espèce, numéro de collection ou d'accession, numéro de réplicat (le cas échéant)) et créez une sauvegarde pour vous assurer de ne pas perdre les informations.
+
+![Capture d'écran de DinoCapture mettant en évidence l'interrupteur à voyant lumineux et le bouton d'exposition automatique](images/fig10.png){#fig-exposurefr fig-alt=""}
+
+
+![La couleur optimale de l'arrière-plan de l'image est indiquée dans l'image du milieu.](images/fig11.png){#fig-backcolourfr fig-alt="Trois captures d'écran de la même image avec des couleurs différentes. La première présente un arrière-plan gris foncé et le contraste entre les semences et l’arrière-plan est faible. Un cercle rouge avec une croix blanche se trouve en bas de cette capture d'écran. La capture d'écran du milieu présente un arrière-plan gris clair et un contraste élevé entre les semences et l'arrière-plan. Cette capture d'écran comporte un cercle vert avec une coche. L'image finale présente un arrière-plan blanc crème lumineux et les bords des semences se fondent dedans. Cette image comporte un cercle rouge avec une croix blanche."}
+
+
+### Références
+
+Seed viability testing using the Tetrazolium Chloride stain (Draft) - Millennium Seed Bank, Standard Operating Procedures 2.2 
+
+Methodology for epiphytic orchid seed viability test using Triphenyl Tetrazolium Chloride (TZ) - Millennium Seed Bank, Standard Operating Procedures 2.21 
+
+Sigma's 2,3,5-Triphenyltetrazolium chloride Safety Data Sheet | [SDS](https://www.fishersci.be/chemicalProductData_uk/wercs?itemCode=12615296&lang=EN)
+
