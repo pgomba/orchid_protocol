@@ -17,6 +17,14 @@ format:
 # English (EN)
 {{< include _protocol_en.qmd >}}
 
+# Malagasy (MG)
+
+{{< include _protocol_mg.qmd >}}
+
+# Español (ES)
+
+{{< include _protocol_es.qmd >}}
+
 # Français (FR)
 
 {{< include _protocol_fr.qmd >}}
@@ -32,10 +40,6 @@ format:
 # Bahasa Indonesia (ID)
 
 {{< include _protocol_id.qmd >}}
-
-# Malagasy (MG)
-
-{{< include _protocol_mg.qmd >}}
 
 # 官话 (CMN)
 
