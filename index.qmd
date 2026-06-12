@@ -49,13 +49,15 @@ format:
 
 {{< include _protocol_ja.qmd >}}
 
+[//]: # ()
+[//]: # (# اَلْعَرَبِيَّةُ &#40;AR&#41;)
 
-# اَلْعَرَبِيَّةُ (AR)
+[//]: # ()
+[//]: # (::: {dir="rtl" lang="ar"})
 
-::: {dir="rtl" lang="ar"}
-
-
-{{< include Arabic_test.qmd >}}
+[//]: # ()
+[//]: # ()
+[//]: # ({{< include Arabic_test.qmd >}})
 
 :::
 
